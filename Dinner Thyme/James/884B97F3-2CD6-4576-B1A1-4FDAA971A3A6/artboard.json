@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "884B97F3-2CD6-4576-B1A1-4FDAA971A3A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1205,
+    "width": 752,
+    "x": 18266,
+    "y": 8803
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 16
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "66F2442A-A6A8-47CD-AC44-1C14FA7F2ECB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99EB6A17-D7E1-42EA-B918-4DEE5665C313"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE19D41A-422D-450F-982F-B311FD0C7BFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAE3F511-0EF8-4966-9CC8-85A907DA62DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13C37DB6-23C7-43A4-A3DF-D704895BC5EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95843372-21E7-4BC3-A5D2-18B47129E353"
+    },
+    {
+      "class": "group",
+      "id": "DFDBF7F2-BA67-4741-BCF7-532897D50EC7"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 14.66666666666667,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 752
+  },
+  "name": "Cart Items Added (Under $80)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

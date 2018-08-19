@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "68B4D492-D68D-4183-98E1-0EFEA76DBB2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AEE0DCDB-D828-42B1-9808-EAC95F5D1A2D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "19D8895E-32B3-4502-90BE-EA873D9BFBFE",
+    "height": 19,
+    "width": 19,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "22DE9EE2-1587-432C-8593-1AF0EC898D2E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9099612-3895-41DB-8B83-B964F01186DD"
+    }
+  ],
+  "name": "Mobile Top Nav (iPhone 8)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "91D5E0BF-B2D9-47DA-A797-F229608EC4D0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "9D88B8B8-0109-44CA-A56F-2AF7F7C08D73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E81C1610-D7A6-4974-95D0-62E05F5965EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A29648DF-B091-414B-9D20-0F953BDD8D7F",
+    "height": 43.75,
+    "width": 72,
+    "x": 28,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cooking Time",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "24638B6D-0CD2-46E8-B359-BC0726CAFC8D_stringValue",
+      "value": "19min"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.25,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "631828FF-7484-4579-B23E-863AFBA298E1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.5,
+      "type": 0
+    },
+    "do_objectID": "0AF3123A-3418-4F38-9281-577298B8BA60",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2B3EF265-FF2A-450C-AFBE-5E2588799E1D",
+  "verticalSpacing": 0
+}

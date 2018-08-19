@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "DE46D793-4CCA-4380-984F-0394F14657BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A505C15-3086-4E9B-A443-5CD7AB7FF3DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B721FE1-3029-44DD-9627-C699CB1AE8F3",
+    "height": 36,
+    "width": 120,
+    "x": 120,
+    "y": 220
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "735B3011-9B23-49CB-9B1F-06A0492D4532"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5EDD2FD-794B-4CC6-967B-647350AD0597"
+    }
+  ],
+  "name": "Cooking Time",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FA85F12-9D72-4002-9F34-7D24F35060D0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

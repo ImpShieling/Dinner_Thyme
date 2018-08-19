@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "9A2B7D18-53F5-46CE-BA28-95F2CD7C343E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2411E96D-7E0C-44A9-8A77-B0AF48C987BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A37C9C06-1C35-49DB-905A-72A95D232F3E",
+    "height": 203.75,
+    "width": 306.25,
+    "x": -6,
+    "y": -18
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MenuImages/applebrandychix",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.25,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "273D7AD9-BD49-4087-A48C-CB568D3F0966",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.5,
+      "type": 0
+    },
+    "do_objectID": "1F95C91C-A156-43BD-9882-3FE4941F7149",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "452C7F31-6393-4BE2-9E5E-32DA481A6778",
+  "verticalSpacing": 0
+}

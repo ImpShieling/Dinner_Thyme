@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C3138CD3-B3E0-4E24-BC6A-7199D0B681E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "597B1387-EB38-43DD-A1FF-BDAC1B6FB763",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A6E07260-1340-43F4-B0AC-3552FD02DE0B",
+    "height": 467,
+    "width": 303,
+    "x": 342,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Meal Card/Meal Card Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "057110DF-B0A7-4BB5-B1D3-8ACB9CBB813D",
+      "overrideName": "F0C2A10A-2489-4CD6-B0BB-97AFDB718475_symbolID",
+      "value": "F9EB636C-0C5B-41AB-A5C2-55B872A5A30E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DE0F139-B6A4-46D5-9FFC-3D1244CA2519",
+      "overrideName": "44713A32-46D8-470F-922D-ADE41C530E37_stringValue",
+      "value": "Beef Empanadas With Chipotle Black Beans"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2926D8E8-A30D-4F29-A6F8-F377768CD806",
+      "overrideName": "5C6AE6D5-69B2-46C9-9C18-84F7FCFA25F2_stringValue",
+      "value": "11"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C9745DE1-87DD-4E7C-9BB4-C4A225788D24",
+      "overrideName": "3008E552-3531-449A-B736-7773E4768324_stringValue",
+      "value": "25"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA5CF6C4-C4E9-4450-B857-700ADB75A1C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "841DAA48-7FB6-4132-A6A1-9E1ECCA1E18B",
+  "verticalSpacing": 0
+}

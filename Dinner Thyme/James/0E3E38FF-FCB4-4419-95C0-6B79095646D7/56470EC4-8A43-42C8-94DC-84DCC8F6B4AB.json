@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "56470EC4-8A43-42C8-94DC-84DCC8F6B4AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28ED0E2F-24AA-462F-A9A7-02E4279E8861",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FDE1CCF3-BAF6-4A23-950F-47CEF5096B69",
+    "height": 467,
+    "width": 303,
+    "x": 226,
+    "y": 4095
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Meal Card/Meal Card Copy 12",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "554DACB6-FE7C-4DF6-801A-42C9497B3779",
+      "overrideName": "02FC9EF1-79F8-4A57-A6F4-AFFB7D737EC5_symbolID",
+      "value": "DA71FDFC-20F6-4993-8CBE-35E949D7E786"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B40A3BB6-53AC-4515-95E4-2BCB956D03BB",
+      "overrideName": "F5896F37-4096-4598-BFD2-F3333F0895B9_stringValue",
+      "value": "Egg Dipped Lemon Caper Chicken With Roasted Tomatoes and Linguine"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1EDBDF9C-0EAB-4101-B5F2-E43B0631F588",
+      "overrideName": "C7BB1987-2437-4AE0-9F13-4400C70CBA74_stringValue",
+      "value": "12"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB148A57-77CD-403A-9EA8-100B745D376E",
+      "overrideName": "94584E70-B8AB-4DCB-8A21-EF1B0756FC11_stringValue",
+      "value": "18"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "55C6598A-6A22-4B6E-AA23-E095A0C004A3",
+      "overrideName": "4388597C-F58E-4A84-9098-53C3CE27A3C5_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0143028F-8535-4A2A-AF93-3F3C2009304B",
+      "overrideName": "317B2BDB-407C-44E2-B80A-0B0B8A3F4659_symbolID",
+      "value": "4E2E5C75-2C6E-484B-834F-51D94CA2DB42"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5642AAA9-9B0C-49A7-832D-D334A8EF60DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8F508C58-D528-43BD-B2DE-B5C56F0A32C3",
+  "verticalSpacing": 0
+}

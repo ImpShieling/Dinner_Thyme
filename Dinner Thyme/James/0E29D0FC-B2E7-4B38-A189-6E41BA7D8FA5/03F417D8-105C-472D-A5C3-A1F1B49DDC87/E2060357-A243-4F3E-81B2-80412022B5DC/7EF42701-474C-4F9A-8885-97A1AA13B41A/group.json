@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "7EF42701-474C-4F9A-8885-97A1AA13B41A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 580,
+    "width": 308,
+    "x": 352.6729850563443,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5E39B6DC-BA69-469E-80DA-9114587FDB7C"
+    },
+    {
+      "class": "text",
+      "id": "4DA7E055-BE78-4224-9466-8EC033651BA5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E3E886E6-2EDC-432F-8566-69C42D22EB82"
+    },
+    {
+      "class": "group",
+      "id": "8DCBA31D-49C7-4035-B13D-883349254C3A"
+    }
+  ],
+  "name": "Middle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

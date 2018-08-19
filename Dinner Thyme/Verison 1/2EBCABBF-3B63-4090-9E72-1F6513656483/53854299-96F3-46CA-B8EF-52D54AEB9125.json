@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "53854299-96F3-46CA-B8EF-52D54AEB9125",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FABFFFA6-E88F-43EC-A851-495621892655",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E6F434B-0729-4DE1-97AB-C5B3541C39CB",
+    "height": 631,
+    "width": 1024,
+    "x": 208,
+    "y": 2159
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Desktop Homepage Info Group (Image on Right) Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52770B63-1266-40D6-8588-EE6600D04D90",
+      "overrideName": "E8556DAA-3B06-484A-A227-4C2D86D6ADC2_symbolID",
+      "value": "19550B49-F6C5-46A3-A00C-D8FE57E0794C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F33B33E0-23F2-4DC2-A9D9-903B60F02E71",
+      "overrideName": "180AAA4F-6190-44F6-AAE5-887A7406828A_stringValue",
+      "value": "Store Dinner Thyme meals in the freezer until you need them. Just defrost your meal the night before you plan to eat or run under warm water for 15 minutes before cooking."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D38F5E9B-6229-4B80-9DA6-DC3575FE9D71",
+      "overrideName": "15C5E485-AFB6-4D9F-ACB4-C66C58D2F02B_stringValue",
+      "value": "Defrost"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "773898AE-87FD-4A76-A2B4-0834720870C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "60AF4C44-D84F-4F47-9D2E-D65E2EF61CD1",
+  "verticalSpacing": 0
+}

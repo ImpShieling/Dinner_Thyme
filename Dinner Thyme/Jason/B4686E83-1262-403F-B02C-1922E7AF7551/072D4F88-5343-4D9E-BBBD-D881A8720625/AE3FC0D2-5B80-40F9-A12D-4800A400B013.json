@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "AE3FC0D2-5B80-40F9-A12D-4800A400B013",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C8E313A-169A-4B3A-93CC-E5FA2BE24B74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5317E46B-CE11-4BFA-A78F-7E08F754D4F5",
+    "height": 1540,
+    "width": 2204,
+    "x": -432,
+    "y": -424
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/99493941de6cb49a88e95c638d3bce91d40b5074.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "skillet2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -90,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3576C944-6949-4E4C-B9BE-84E014EF1C22",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5B972677-63ED-4DF6-A3E8-03181F2ABFC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DF621C4-6331-4196-A0E0-7D8E51A878A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "484D5743-07A3-4161-8AE2-EE1900EF5606",
+    "height": 45,
+    "width": 42,
+    "x": 125,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Portion Cost",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F76929B2-0F71-4648-8D65-1A6ADC5EA7A7_stringValue",
+      "value": "$13"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.25,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A7FAF5F6-4F5E-4CA8-BF68-6475D206D152",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.5,
+      "type": 0
+    },
+    "do_objectID": "BE45F1C3-B596-4359-B43B-C00ECACEB127",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC835053-79E4-458A-97E9-3B0DF04CE6BC",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "2C7C38A8-5CD0-45AF-88EA-BFCA86EAABD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B52320D1-4556-48B1-A0A1-9783571B2360",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "485A376B-0572-4776-9383-1C0FD54C15A4",
+    "height": 442.9999999999999,
+    "width": 289.0000000000001,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4EF2C9CA-0ACA-45CB-B4CF-DBEC34DB4A0F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "223D8CDF-AFC2-4C42-AADA-28BC67B3EE31"
+    },
+    {
+      "class": "group",
+      "id": "F949CECC-5185-4561-A122-434EC75F590B"
+    },
+    {
+      "class": "text",
+      "id": "C78D2ED7-299E-41FE-8799-5A117CB8192A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41DC19C6-7FD6-410F-9653-A660CB0ED31B"
+    },
+    {
+      "class": "group",
+      "id": "8DAB9120-5ED0-435C-B39A-C877700F4336"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F4AEF682-E3DB-41D1-AB42-34E67D83DF23"
+    },
+    {
+      "class": "group",
+      "id": "2F6AA49A-5D73-4F48-8B01-9F05E15BCE97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA6E5D0C-7AB8-49C6-AF3B-387F416C0DD9"
+    },
+    {
+      "class": "group",
+      "id": "DF94F81D-982F-478E-ACA6-C52699E2833D"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4BA2C00A-E41D-48EF-B187-D994827FD4F7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.6,
+      "type": 0
+    },
+    "do_objectID": "EA28C354-7149-41EE-8677-124F51F25F21",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

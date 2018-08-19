@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "43F71F2E-B0F9-4252-BF4E-A1E21E2E667E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E4784F9-A7C2-46D7-B7D9-C9A37A6DB660",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E36FF26F-BBBA-4B05-9AB9-2D69A531ED41",
+    "height": 619,
+    "width": 1024,
+    "x": 208,
+    "y": 1419
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Desktop Info Group (Image on Right) Colored Background Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC8E6728-1E6C-4FFA-8D9C-5A65D1A8592A",
+      "overrideName": "99294AE6-5076-41F2-8989-8EDD18CA7841_stringValue",
+      "value": "We believe that you should be free to order only when you want. That is why there is no subscription for Dinner Thyme, and never will be. No subscriptions. No commitments. Enjoy the freedom."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6098EB0D-B025-4BC4-AFDA-74996481E588",
+      "overrideName": "7B95FF89-DE56-4B5F-82ED-FBB0AD6E484E_stringValue",
+      "value": "No Subscriptions"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6E49AEB-422A-4599-A5E3-91CAD3B25CCE",
+      "overrideName": "83574826-68F2-46D4-B066-3737DB859928_symbolID",
+      "value": "358D944D-4603-4834-9974-6A13C3EDA414"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1E5A8F5-0154-4512-B0C4-6DD339658FBC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "411D7A11-8955-4C5E-BC56-28F615F6D662",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "EE8A7C2D-D690-45C2-B9A6-539497407BD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91B24DAD-21D9-42E0-8153-DDFE03D297ED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE4BFD76-73D1-41A8-86A3-3AF3782D7E73",
+    "height": 10,
+    "width": 42,
+    "x": 344,
+    "y": 34
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7A621752-2A38-4140-9DDB-25AE22DB54BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70D16BB7-D2FA-438A-8CFA-EA4036B2D004"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB7CEF7E-06FC-4D25-B76B-4E6F82398CBC"
+    }
+  ],
+  "name": "Detail Circles Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ABC778BF-2702-4A4E-A22A-DA363001A3DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

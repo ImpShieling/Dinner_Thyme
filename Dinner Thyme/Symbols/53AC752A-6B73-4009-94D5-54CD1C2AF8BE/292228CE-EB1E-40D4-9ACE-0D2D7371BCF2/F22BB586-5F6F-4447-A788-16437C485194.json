@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "F22BB586-5F6F-4447-A788-16437C485194",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53F637D7-AD34-4142-B160-7D1446E4F9B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8A7BA669-1D3B-45D6-9969-BC9FB0BB2AB6",
+    "height": 703,
+    "width": 1055,
+    "x": 0,
+    "y": -16
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e42cffcc9064a3f32fc986c50caad32da09145b5.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cooking",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "611A544A-84CC-4A1C-9973-88E433A47E19",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

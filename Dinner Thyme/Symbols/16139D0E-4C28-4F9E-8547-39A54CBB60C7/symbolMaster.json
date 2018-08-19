@@ -1,0 +1,126 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 17160,
+  "do_objectID": "16139D0E-4C28-4F9E-8547-39A54CBB60C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 700,
+    "width": 375,
+    "x": 5989,
+    "y": 3610
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "821F3DFC-860E-4776-8E6D-3F983683B116"
+    },
+    {
+      "class": "text",
+      "id": "805AE8B7-71DC-4427-80F3-EAF7D9B8E499"
+    },
+    {
+      "class": "text",
+      "id": "01C2DADF-676D-406E-856D-625926B3CCB5"
+    },
+    {
+      "class": "text",
+      "id": "018A2D4B-2FDD-42D5-9E74-FFA835E83FCB"
+    },
+    {
+      "class": "text",
+      "id": "37C35978-AC83-4DD3-8854-921355DF955B"
+    },
+    {
+      "class": "text",
+      "id": "BA61D147-DD74-421E-A3C3-B4B4DA82C7A3"
+    },
+    {
+      "class": "group",
+      "id": "1A6522B3-1452-475A-AA59-1A18DAD16568"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F13DA991-2083-4C0B-B03F-390B92B3D63E"
+    },
+    {
+      "class": "group",
+      "id": "3F02E262-7397-41A0-A4FE-7AB561664905"
+    },
+    {
+      "class": "group",
+      "id": "8322C536-CFB0-4E78-B199-1793DC84E67C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 26.25,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "Footer/Footer Mobile Short",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF915C3E-5D23-4B4A-BD9C-8551FBD75B91",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

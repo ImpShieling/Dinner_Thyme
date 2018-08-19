@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D9B9FF17-D7A7-45E9-A49A-C6C28368ADE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A8FE607-5021-4BCD-8C55-30DA4C62E3D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD8C7C6B-4A7B-4CCD-B9A5-5B1513CA7059",
+    "height": 473,
+    "width": 768,
+    "x": 0,
+    "y": 1687
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Homepage Info Group (Image on Right)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76E66D19-8B24-43B5-BE14-482CDBA8DD90",
+      "overrideName": "A1ECC420-090C-4409-B30F-F47AC3DB0A6E_symbolID",
+      "value": "19550B49-F6C5-46A3-A00C-D8FE57E0794C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "453D04E9-4BE1-49D2-B50F-1CA684FED6E3",
+      "overrideName": "259BDFDE-3A03-41B1-BA3B-E6589B0792AE_stringValue",
+      "value": "Defrost"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B83ABE97-4070-4CB6-93EE-C0C3CA56D33A",
+      "overrideName": "B5DF8317-63B0-4425-950B-04147D42DB7F_stringValue",
+      "value": "Store Dinner Thyme meals in the freezer until you need them. Just defrost your meal the night before you plan to eat or run under warm water for 15 minutes before cooking."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F50131E3-373A-49E4-B8DC-846D28A1489B",
+      "overrideName": "D94AD902-D28C-48AF-A4C0-DD6D298BCA6E/63EECFB5-7331-4234-9467-7EAAFE5FEEB2_stringValue",
+      "value": "3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4204604C-16E7-423D-8BB1-67C5E656C716",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6B0D0FC0-5338-4F8E-AF69-3F877939D37A",
+  "verticalSpacing": 0
+}

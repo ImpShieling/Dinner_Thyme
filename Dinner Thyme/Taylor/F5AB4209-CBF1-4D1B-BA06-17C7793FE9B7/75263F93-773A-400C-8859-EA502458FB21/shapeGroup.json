@@ -1,0 +1,81 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "75263F93-773A-400C-8859-EA502458FB21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B62150C3-7441-4395-86DD-BB403C59CD5C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00E28E35-6EE6-4990-94C7-FF628C7D52A7",
+    "height": 27.78969957081545,
+    "width": 27.7035175879397,
+    "x": 121.2964824120603,
+    "y": 30.79399141630902
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "92F59BBC-C46D-4363-8A2F-63D72ADFDA28"
+    }
+  ],
+  "name": "Fill 7 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FB79E387-8D9E-4136-9B4C-DE0397E920A7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.36,
+      "type": 0
+    },
+    "do_objectID": "FA7E52E1-00A0-454B-B541-F275B03AE206",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.91,
+          "green": 0.6980000000000001,
+          "red": 0.384
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

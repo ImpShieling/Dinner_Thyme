@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "18E135D2-0270-4E4A-A07C-1E7747C5D649",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72055C52-986A-4D94-8C65-2FDA6F080005",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "428079A0-6DBB-4799-B868-5F7207D4B508",
+    "height": 18.5235849056604,
+    "width": 18.66206896551726,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "24BDC7D1-57D5-4D53-B876-48709134CAFE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "551DFAF0-057D-4A4E-9CAD-E096C7D2715D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B9066DBF-31DD-47AA-8D7A-1C9B99DAC3FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA5890C7-61E1-44C0-B165-B7DB46DBB234"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D078FB0A-3CF4-4EAE-8E68-DDDB04AEB4D4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FB6FE413-DD25-4ED7-B9DE-69926DA8A7D4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7FA3D0D4-C41A-4ADE-9CE8-82DCACEC9DC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "774128D6-A9C7-4A17-A8BC-2BBAD26B10BB"
+    }
+  ],
+  "name": "germ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "27461790-EE87-48AE-AD3F-259AC907EB17",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.8125,
+      "type": 0
+    },
+    "do_objectID": "14FFCC4E-0041-4E05-BFD8-FF0664E3230F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

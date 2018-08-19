@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C765331A-99FB-427E-982E-C120EF2884F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB1DF2A3-50A5-48C8-9FF7-C95E0CD9E17F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A2BE9E1-C6E0-4957-9B78-F3EE9367EB11",
+    "height": 42,
+    "width": 201,
+    "x": 628,
+    "y": 662
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Add to Cart",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6213ECB9-EFAA-4BFA-90D5-E2EC74E8E17F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3C981A6-6DF5-49AE-859D-07F23EA4F173",
+  "verticalSpacing": 0
+}

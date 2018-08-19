@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A924DEA5-630A-4715-8FAA-C9952493780F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 862,
+  "do_objectID": "58FBD047-DE0D-4431-B1E7-C2CA204E53D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C894C64A-49EB-493D-BEC0-38A671C22816",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "253206ED-EC76-4300-8F79-B71B2FE5BEC6",
+    "height": 467,
+    "width": 303,
+    "x": 16980,
+    "y": -361
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "20F6F74C-660D-42B0-BC33-49C3EACA4C28",
+    "guides": [
+      32,
+      269
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A0669996-471D-406A-8AA4-BEAB0CC2ABE4"
+    }
+  ],
+  "name": "Meal Card/Meal Card - FRESH",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDB5E75C-C8CB-42FA-B131-696DBDA5A649",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CF15F59-62C3-4D09-BEF4-538E6D089FF7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "98732526-85CF-423B-9440-DC920C5C3DEC",
+    "guides": [
+    ]
+  }
+}

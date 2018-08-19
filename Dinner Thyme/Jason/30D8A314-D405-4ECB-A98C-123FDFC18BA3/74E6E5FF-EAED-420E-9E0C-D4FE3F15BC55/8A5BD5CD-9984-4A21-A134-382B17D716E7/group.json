@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "8A5BD5CD-9984-4A21-A134-382B17D716E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD5CF3DA-55F0-41AC-9C0E-D20A6348132E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71EABAED-6D99-4B4D-96AB-E820B2DB3A01",
+    "height": 27,
+    "width": 27,
+    "x": 0,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9BDDEAA4-B5E8-4B0D-984A-8C5C09335C20"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B9EAC502-D210-46AA-9D1C-7063E438422E"
+    }
+  ],
+  "name": "clock",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8786DACA-E359-4C53-A228-E79007DD30B1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "03F70ED9-A752-4AFB-93CD-B60349C0FA7D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

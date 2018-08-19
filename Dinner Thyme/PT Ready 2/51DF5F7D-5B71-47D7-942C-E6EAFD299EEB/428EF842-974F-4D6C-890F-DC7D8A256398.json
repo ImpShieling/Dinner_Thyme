@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "428EF842-974F-4D6C-890F-DC7D8A256398",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79BB96E1-7521-4393-9B2D-4461A0793C85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B39D2228-A6C2-481E-92AD-C70A2258A27D",
+    "height": 467,
+    "width": 303,
+    "x": 570,
+    "y": 1231
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Meal Card/Meal Card Copy 14",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFC0948F-E81E-4818-8BCA-87DA8283ADF5",
+      "overrideName": "428A7A20-90A1-4E03-89D3-0A00E20FF9DD_symbolID",
+      "value": "4E2E5C75-2C6E-484B-834F-51D94CA2DB42"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A618F061-1F1E-4926-835F-971B5373AB12",
+      "overrideName": "F0C2A10A-2489-4CD6-B0BB-97AFDB718475_symbolID",
+      "value": "DC0C81E2-268E-4985-8C56-B498A815CFAC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01B93B2A-488D-4590-A574-0F475ED32711",
+      "overrideName": "BB5E0BE5-DF06-48F4-898E-BFDFA0F01BF7_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB9BEDE4-736B-4039-ADAC-C0E6B9B9F795",
+      "overrideName": "3008E552-3531-449A-B736-7773E4768324_stringValue",
+      "value": "16"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85BCF6BF-3BAA-4A58-9455-D2BE15AF055F",
+      "overrideName": "5C6AE6D5-69B2-46C9-9C18-84F7FCFA25F2_stringValue",
+      "value": "12"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "86E06988-5B79-4865-97BB-B330C9A1AA5A",
+      "overrideName": "44713A32-46D8-470F-922D-ADE41C530E37_stringValue",
+      "value": "Chicken Pot Pie With Garden Vegetables"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4FD2177-A325-4077-8ABC-F0C1186DEFB3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "841DAA48-7FB6-4132-A6A1-9E1ECCA1E18B",
+  "verticalSpacing": 0
+}

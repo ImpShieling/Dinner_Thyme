@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "FC1CDE9C-34D5-4D22-A095-117F4BB069F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63265FCF-FE18-4120-B15D-74883090872C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7EF1D51-B080-448E-A28B-2890EA5BB303",
+    "height": 331,
+    "width": 394,
+    "x": 208,
+    "y": 1959
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2760EB70-D2D8-4B51-90BE-7317B3DB6FDE"
+    },
+    {
+      "class": "bitmap",
+      "id": "0F14AEF0-C1B8-4FC0-9107-258B518CEDD2"
+    },
+    {
+      "class": "bitmap",
+      "id": "C15D97D4-6583-4855-B01A-6D0E5EEB2292"
+    }
+  ],
+  "name": "Cook pan pic",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "411650B6-7419-42E8-AA96-1998DECDE489",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

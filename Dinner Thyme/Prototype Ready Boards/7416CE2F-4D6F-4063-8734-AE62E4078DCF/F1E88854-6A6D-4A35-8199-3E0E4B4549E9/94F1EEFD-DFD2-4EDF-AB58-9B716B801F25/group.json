@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "94F1EEFD-DFD2-4EDF-AB58-9B716B801F25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "088600A9-31CD-4231-88CC-D4B5AAF3F52C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F7754919-5017-479F-BA41-13F8C407A235",
+    "height": 30,
+    "width": 210,
+    "x": 317,
+    "y": 33
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "19AB3B3A-7F8E-4CEF-A38D-6F8344792121"
+    },
+    {
+      "class": "text",
+      "id": "DBA504AA-F111-460B-9EF7-A636FAA4A748"
+    }
+  ],
+  "name": "Subtotal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A66D120-87F5-4D7A-B061-5DEE970A07D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

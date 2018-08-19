@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "51F8DC83-C8D1-4D4D-AF32-536D2197F915",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2065F521-6A96-4623-8235-01471F6B671D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C379F50D-F5A9-4E61-BFD1-22179DCF4D1A",
+    "height": 10,
+    "width": 42,
+    "x": 183,
+    "y": 42
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F43C5821-C913-490B-801B-78DFAAB47B46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C13B27F0-5DB8-4C8B-8E6C-FB3D97DBD337"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "64072EBC-9BFF-4191-A02B-230167283C5B"
+    }
+  ],
+  "name": "Difficulty Level Circles",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6AB0828D-2414-4CB6-8DC3-4C8309C1A251",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

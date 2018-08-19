@@ -1,0 +1,129 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 7871,
+  "do_objectID": "B8696462-5505-4A15-8D87-4F483655A6D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 179,
+    "width": 768,
+    "x": 715,
+    "y": -31
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 16
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D50FF6E4-E72F-437E-82A6-4E68949099CC"
+    },
+    {
+      "class": "text",
+      "id": "A62FB660-58DA-4138-AC57-FCF4755B1DF1"
+    },
+    {
+      "class": "text",
+      "id": "1AEDC9CB-0AD1-4245-A963-A8D3B1E51672"
+    },
+    {
+      "class": "text",
+      "id": "3E1332F3-21F9-4EF1-AD7B-753B91C6C464"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "236C040F-78BA-4174-BB67-30F7B36D4931"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4233A751-EE12-4822-AA45-4D256451969D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4AF2581-E00E-4425-A5A0-662824D32A0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3422558-92C1-4C0D-805D-AD60EB4F9470"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "52191B6D-B1E6-4BC3-AC0A-4900B90F50E9"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 768
+  },
+  "name": "Header/Header - iPad",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A5E73D9F-956C-48AB-87E1-9777CB989156",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      108
+    ]
+  }
+}

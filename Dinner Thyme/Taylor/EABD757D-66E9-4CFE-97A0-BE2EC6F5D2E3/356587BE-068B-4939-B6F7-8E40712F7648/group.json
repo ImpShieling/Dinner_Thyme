@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "356587BE-068B-4939-B6F7-8E40712F7648",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 119,
+    "width": 82,
+    "x": 139,
+    "y": 2789
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "02622C3A-9BA2-4592-82BE-4DF745DBE43E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9494817E-38B8-41D9-AF13-AC6EC1B0DA42"
+    },
+    {
+      "class": "group",
+      "id": "1F793517-C88B-402C-BF2D-5282577DD16E"
+    },
+    {
+      "class": "group",
+      "id": "4349B5E6-F84F-4AA2-A4E3-88BC20E2CCD4"
+    }
+  ],
+  "name": "Minimize Food Waste",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.625,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

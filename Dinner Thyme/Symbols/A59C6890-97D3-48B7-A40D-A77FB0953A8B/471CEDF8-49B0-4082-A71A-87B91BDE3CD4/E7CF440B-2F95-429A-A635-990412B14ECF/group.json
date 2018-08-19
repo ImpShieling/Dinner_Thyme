@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "E7CF440B-2F95-429A-A635-990412B14ECF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 89,
+    "width": 859,
+    "x": 0,
+    "y": 71
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "13F8F6BE-5C9F-4CB4-9961-BC1EF06C2763"
+    },
+    {
+      "class": "text",
+      "id": "E41C0E44-8569-4C59-817F-F358AC22DD42"
+    },
+    {
+      "class": "text",
+      "id": "9F0F90A7-E0D3-4FEA-9F55-A82E383D5F2F"
+    },
+    {
+      "class": "text",
+      "id": "E179A807-9D5F-4678-918A-E6530E352A4C"
+    }
+  ],
+  "name": "Top Row - About Us Bullets",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

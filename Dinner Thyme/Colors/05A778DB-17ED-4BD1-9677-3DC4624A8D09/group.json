@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "05A778DB-17ED-4BD1-9677-3DC4624A8D09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A59707C8-3B4F-4083-BBD7-77954E2E285C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B00E8252-A887-47FE-9264-0F768C1924A6",
+    "height": 472,
+    "width": 548,
+    "x": -918,
+    "y": -237
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E61B77D0-19DB-4F41-8DBC-944C29517285"
+    },
+    {
+      "class": "text",
+      "id": "320F59A4-72F7-4212-A91B-5D9D1232CA27"
+    }
+  ],
+  "name": "Titles/Backgrounds",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7BE6B954-D837-4957-91AB-A15E888718E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

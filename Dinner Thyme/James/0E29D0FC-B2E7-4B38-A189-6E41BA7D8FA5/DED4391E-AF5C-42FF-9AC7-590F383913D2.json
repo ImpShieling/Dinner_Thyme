@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DED4391E-AF5C-42FF-9AC7-590F383913D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58F65EEB-186A-4225-B493-9CF66A4ED15B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54B8AC25-44F4-41B5-BA2E-5683FC707144",
+    "height": 619,
+    "width": 1024,
+    "x": 208,
+    "y": 4164
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Desktop Info Group (Image on Right) Colored Background Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47EB3043-8E9E-4478-81CC-F6D8C386167E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "96C62DA1-4651-4809-9C7C-15964AC5778A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A9CC8E93-8FCA-48EC-8EE9-0C515B1EEE83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84C59B29-8752-4861-8E46-B99E3047C92A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D903B9BC-6064-4A4D-B55E-CBC38FCA825F",
+    "height": 71,
+    "width": 226,
+    "x": 399,
+    "y": 686
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filter/Apply Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.76418,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DD651B9D-8F6C-4EC0-9E4E-B7A395FC4EAC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 17.6418,
+      "type": 0
+    },
+    "do_objectID": "32203B46-6ECF-44CF-B735-410871B8C397",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FA8A0DF9-43B1-4D06-8BC0-BCB9CFCEB74A",
+  "verticalSpacing": 0
+}

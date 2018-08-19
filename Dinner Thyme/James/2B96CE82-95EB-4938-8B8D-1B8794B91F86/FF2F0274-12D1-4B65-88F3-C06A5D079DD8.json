@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "FF2F0274-12D1-4B65-88F3-C06A5D079DD8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DD4986B-7644-419A-8C61-0B7ED9ABE2F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "11BAB9E3-F3DE-449A-9B71-C1E62846ED8A",
+    "height": 148,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header - Desktop HD",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61CCFBBA-9C1C-4690-A05B-831B5D5DA6D8",
+      "overrideName": "62AF81B0-0347-47EC-AB1F-D2464B0FB197_symbolID",
+      "value": "7E850195-B30A-42BA-A7AB-97E8A5A6424C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D95551BF-B644-4275-A532-F285C2B791C8",
+      "overrideName": "8EE23DD5-0593-4BCE-9E5E-290F3C927B0F_symbolID",
+      "value": "D7D8A578-EC28-42B2-AFCB-F599B232F861"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3F0E22C-34BE-4C95-A3D4-0CD9E893A805",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "843E06A0-B680-40AD-BD9F-9C13FE6139E8",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "293F008D-8EF7-4E37-8226-A46501D7392E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7D76A6C-21C5-4173-82E2-0CF5D823D9B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A1ABED76-C195-4528-981E-D7637B9F3F58",
+    "height": 1059,
+    "width": 794,
+    "x": 115.5,
+    "y": -307.5
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/ec8d083ff126bb79f2725884b69bcb9c7a9340b3.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Ingridients",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -90,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41C5F5E5-E895-431C-8D7E-AAADA6F9B920",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

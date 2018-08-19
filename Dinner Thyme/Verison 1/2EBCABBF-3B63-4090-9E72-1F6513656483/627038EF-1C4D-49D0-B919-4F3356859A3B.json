@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "627038EF-1C4D-49D0-B919-4F3356859A3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EDE8D010-6E9B-4AAC-80F6-209B1F5B020B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC55F51A-FDC9-41D3-9882-413BF1552D63",
+    "height": 631,
+    "width": 1024,
+    "x": 176,
+    "y": 2790
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Desktop Homepage Info Group (Image on Left) Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D60F29A1-C16B-4832-9DEE-6CC0A2B92197",
+      "overrideName": "C9A703CA-B0C7-4A0B-85AB-3842961461C7_symbolID",
+      "value": "B21C2317-4AAA-4223-8F3D-847B61FF55EE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AAA5AF53-0769-485F-9131-6FD9DCE43242",
+      "overrideName": "033D5C62-5963-45E6-9FB8-5F32E9E876D1_stringValue",
+      "value": "Easily create simple and delicious home-cooked meals in 20 minutes or less with Dinner Thyme's pre-cut and portioned ingredients."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43CB2BCE-76CB-4E49-81CB-D82B22696B06",
+      "overrideName": "8297352C-F366-485D-980A-625F31E3C037_stringValue",
+      "value": "Cook"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "058AD116-368D-47E1-8C7D-8708185BE111",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "00271EB4-BC5D-447B-9DE4-2FA8A2FC436D",
+  "verticalSpacing": 0
+}

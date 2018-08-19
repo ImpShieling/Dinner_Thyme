@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "3A47631B-E558-48CC-BE78-BC3C42879C2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C71B8E7E-69EB-4FFA-8B8D-F5F509C2BF07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8AEA0E03-0ADF-491C-95FD-9232B1371A2F",
+    "height": 148,
+    "width": 1440,
+    "x": 0,
+    "y": 23
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header - Desktop HD",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB12BB11-2B5F-4ED9-81AA-D0EC00540611",
+      "overrideName": "62AF81B0-0347-47EC-AB1F-D2464B0FB197_symbolID",
+      "value": "7E850195-B30A-42BA-A7AB-97E8A5A6424C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92978926-CE22-40FE-877A-E9E53BF8F333",
+      "overrideName": "8EE23DD5-0593-4BCE-9E5E-290F3C927B0F_symbolID",
+      "value": "D7D8A578-EC28-42B2-AFCB-F599B232F861"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B6E84C6-DFFE-4A3C-B36D-7B4689DCE86E",
+      "overrideName": "41626A84-3FCD-4F2C-87B5-E70B93042EE4_symbolID",
+      "value": "55F4BDF4-396C-47C8-BC09-2523DC2097CB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8BC0E4D-E9EA-4BEC-B6F8-D476E49DB3D8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "843E06A0-B680-40AD-BD9F-9C13FE6139E8",
+  "verticalSpacing": 0
+}

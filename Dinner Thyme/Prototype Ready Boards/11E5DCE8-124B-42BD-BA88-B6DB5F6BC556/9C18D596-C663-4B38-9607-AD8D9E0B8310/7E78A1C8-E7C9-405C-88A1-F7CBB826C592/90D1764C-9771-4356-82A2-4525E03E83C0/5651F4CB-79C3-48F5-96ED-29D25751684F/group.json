@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "5651F4CB-79C3-48F5-96ED-29D25751684F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C58D0424-D7A1-4F1F-BB50-CBB20CD1DA40",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF6E5FB7-920D-4F7A-B29F-1068470CA164",
+    "height": 262,
+    "width": 134,
+    "x": 82,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "554456C4-0A80-4835-872C-AA95F42E798B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F22E5BF3-9B87-40D1-B70D-F3A07764B134"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C344F31D-CB69-4B1C-A3B6-3864402E08FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "36FEB085-F7B5-4C16-84CC-39372C3D2F7A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9BC15B0-BDA2-42EA-8DAA-37E9233A48F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD3E0544-A0AD-4005-B68E-59E7D04F6EBA"
+    }
+  ],
+  "name": "Chicken",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1E89753F-A57D-4E4F-B147-5C33A52773F1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9,
+      "type": 0
+    },
+    "do_objectID": "475B0EF2-3B2C-4884-B7EF-0C174972B306",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

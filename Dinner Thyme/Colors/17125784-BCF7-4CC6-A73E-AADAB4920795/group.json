@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "17125784-BCF7-4CC6-A73E-AADAB4920795",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E124B17F-0458-47D4-A946-67083CD15282",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C53FEBDB-60C4-4842-82FC-16483368A5F0",
+    "height": 462,
+    "width": 548,
+    "x": 1011,
+    "y": -237
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D718C38E-E39E-48B6-A888-BDC7F2E97875"
+    },
+    {
+      "class": "text",
+      "id": "1854D4ED-F985-4517-A760-0E4C2B1CB57F"
+    }
+  ],
+  "name": "Dark Orange",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E28F403-6310-4656-934A-0A371DAEE5C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

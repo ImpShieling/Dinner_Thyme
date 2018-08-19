@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A705119D-DA4A-40F2-8114-959AC8DDD70C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "246A533B-FBE0-4544-A58D-93C0124231C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BE22BFA-C2FE-47BB-ABB6-0D0DB8601746",
+    "height": 467,
+    "width": 303,
+    "x": 342,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Meal Card/Meal Card Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E09660B-2B59-44C6-8B27-5550DFC58BA6",
+      "overrideName": "02FC9EF1-79F8-4A57-A6F4-AFFB7D737EC5_symbolID",
+      "value": "80FEC611-4B80-4513-AEBF-4F4D68553A81"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC2DD697-F592-47E7-B625-3EC0C8697C2B",
+      "overrideName": "F5896F37-4096-4598-BFD2-F3333F0895B9_stringValue",
+      "value": "Korean Fried Chicken With Edamame Rice"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E92AB60-037F-418F-96B0-25F221B02CDC",
+      "overrideName": "C7BB1987-2437-4AE0-9F13-4400C70CBA74_stringValue",
+      "value": "12"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD726605-BB73-454C-BC89-42AE36A4EF4E",
+      "overrideName": "94584E70-B8AB-4DCB-8A21-EF1B0756FC11_stringValue",
+      "value": "16"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43DAFCE5-6AD1-4AC4-9495-47AAA1C4AD09",
+      "overrideName": "4388597C-F58E-4A84-9098-53C3CE27A3C5_symbolID",
+      "value": "CFAC2A1D-4605-4BA4-A02D-CB17C9043A6E"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85700C7F-CF95-452D-B8B0-DF5A31A8B6CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8F508C58-D528-43BD-B2DE-B5C56F0A32C3",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "978BE87F-38FB-4065-A8A5-B55D33CA843B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39C1CF73-797F-4675-BF6D-B6923140EBEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C15AB79-9F94-4681-BE8D-DA8FD9C2D286",
+    "height": 163,
+    "width": 259,
+    "x": 765,
+    "y": 184
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A6309B45-2680-4A1D-95D2-312F2EA42AF1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "49C39BB6-D468-465E-85D7-32747B0B72C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "330E22D6-5F37-45A7-AADE-CCC86964352F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A490581-0293-479F-BB01-DD13F87011F7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68D8EAB4-9547-44A7-9ED2-7D44535553F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3433A41A-66E5-4AF9-91F7-455DF7EB6E91"
+    }
+  ],
+  "name": "Delivery Truck",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1C546EBD-9619-47A3-8D9D-F22C2B574B1F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

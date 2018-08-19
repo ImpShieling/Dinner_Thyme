@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "DCDD41D5-ADAE-43B1-9DE6-5EAA1F70E3C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2C99C65-2C55-43DF-B491-F7BEB7142D78",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48FCBC4F-427F-4469-9A03-882E83167C4A",
+    "height": 528,
+    "width": 302,
+    "x": 208,
+    "y": 754
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8E0CAF65-43F6-435F-B22E-B989D77F300C"
+    },
+    {
+      "class": "text",
+      "id": "EA7D67CA-FF03-4E9E-9E28-B36A8E24A79E"
+    },
+    {
+      "class": "text",
+      "id": "CBE88D6F-19C1-4B8E-93C3-6441C99F8F89"
+    },
+    {
+      "class": "text",
+      "id": "7F3E061A-CBE8-44BE-B2F4-15639B2ADBC7"
+    },
+    {
+      "class": "text",
+      "id": "046E4A3F-EFCE-43C1-96E4-A0E4B01A2896"
+    },
+    {
+      "class": "text",
+      "id": "EEFCD7E6-7542-422D-BBBE-7CA998FFCC00"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B0785F14-233B-491E-9B4B-3B6F64EBD16D"
+    }
+  ],
+  "name": "Nutritional Info",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A55688D-69A0-41FC-B8AA-CEBCC997750B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

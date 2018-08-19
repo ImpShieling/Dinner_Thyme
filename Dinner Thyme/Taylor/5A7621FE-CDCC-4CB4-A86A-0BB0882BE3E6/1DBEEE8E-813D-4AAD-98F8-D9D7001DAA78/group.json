@@ -1,0 +1,96 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "1DBEEE8E-813D-4AAD-98F8-D9D7001DAA78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 82,
+    "x": 147,
+    "y": 2622
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "631361FE-0AD7-41E2-BE1F-7D504286BCD6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E1CED15A-BE0C-4526-A7CF-1CAE79D0C9BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DAA1F492-5808-4671-98B4-0A59C30C62BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30B75E14-E174-4D2C-9FCB-407B3C9E33A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC099627-BC8B-4080-AF23-3EB98E3136BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F027A5C8-8891-495E-AFA2-994F87DD7794"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C1FEEA6A-51A6-43D0-9483-DEF3E01936E4"
+    },
+    {
+      "class": "group",
+      "id": "6ABA0C1F-1F07-4CD1-AEFA-85BF14DD1978"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E31EDD57-E537-448B-8D7B-3BBED4D9C642"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "799A143F-39AF-4D30-9CFB-DE60F2816FA3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A8588B3-ACF8-4866-BE53-94701C2F93D4"
+    }
+  ],
+  "name": "Freezer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.625,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

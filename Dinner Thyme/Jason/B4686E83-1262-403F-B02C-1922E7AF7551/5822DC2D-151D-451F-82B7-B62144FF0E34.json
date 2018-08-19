@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5822DC2D-151D-451F-82B7-B62144FF0E34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E53CFC8B-140F-46E3-A393-B32117923DC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3C921C9-2D3B-4E16-8D18-81608A813C87",
+    "height": 59,
+    "width": 252,
+    "x": 378,
+    "y": 424
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Shop_Menu_Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3F0E7BC-9298-4CDF-9A69-FE4B20D88A2F",
+      "overrideName": "6CF6DA5F-EB8C-4669-9BAA-C21D7D6D91AA_stringValue",
+      "value": "Choose Your Meals"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.81,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8BA63F88-C6D2-4E1D-8721-9ED4FABB28E3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.1,
+      "type": 0
+    },
+    "do_objectID": "4F98C003-878E-4320-AC50-9D1DB33FA109",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7246F197-53E4-4E66-9DB8-BBCA656E63EB",
+  "verticalSpacing": 0
+}

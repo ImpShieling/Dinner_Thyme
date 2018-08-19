@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "42DE268A-964C-467F-B02D-44EB7D20D399",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94975FAB-7161-4D3D-B6D2-FDBC142A0CBE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D70EC20-08D2-4731-8978-B42D76A9BABA",
+    "height": 619,
+    "width": 1024,
+    "x": 208,
+    "y": 2038
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Desktop Info Group (Image on Right) Colored Background Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D498EB5-94B7-42B4-8503-EED70E781378",
+      "overrideName": "22722096-A692-4104-AA3F-3C0CFCA829A2_symbolID",
+      "value": "87FD5509-8A67-4F82-9EC2-E75FBCBA788B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC70E86D-3F17-4F7F-BDBF-AF0FD0D723CB",
+      "overrideName": "33506CC4-9559-474B-80B1-4733BF42DA28_stringValue",
+      "value": "Eco-Friendly Packaging"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A60398F6-3BF8-44CE-8E8C-6C3AFCD6611B",
+      "overrideName": "7DBDE7A4-1447-4C06-88E2-1D38DBF59F2C_stringValue",
+      "value": "Everything in your box is 100% recyclable, and the insulation is made of 100% post-consumer plastic. This, coupled with the freedom to only order when you actually want to, helps us cut our carbon footprint caused by shipping by up to 66% compared with other meal kit services."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1BFB847-673D-4344-AEA7-B722FB1198C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "823D6F2E-B140-42C4-9A07-6B58537ECA55",
+  "verticalSpacing": 0
+}

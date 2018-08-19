@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "6F27056A-BCA7-49DA-B5C4-38BEF19FD5C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 148,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CA77E458-C180-42EA-A979-845F98899C04"
+    },
+    {
+      "class": "group",
+      "id": "E23C5946-5E60-4E0D-B68F-6D21FE49C383"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43032713-CE1E-4B0C-868D-9763AB65829C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "411E4158-3C92-46F8-992E-32A955F4BE55"
+    },
+    {
+      "class": "text",
+      "id": "61460E79-FAEB-4F40-92E1-8B8C87E102E4"
+    }
+  ],
+  "name": "Homepage Quotation",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.8828125,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

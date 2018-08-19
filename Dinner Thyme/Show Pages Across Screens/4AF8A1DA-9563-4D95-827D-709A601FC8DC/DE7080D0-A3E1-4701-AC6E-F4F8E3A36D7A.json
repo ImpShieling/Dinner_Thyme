@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DE7080D0-A3E1-4701-AC6E-F4F8E3A36D7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1302FCF8-8BF7-47BC-8926-347992994E6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2D3B027-673E-4CBB-AE77-27FE9F80659C",
+    "height": 666,
+    "width": 1081,
+    "x": 152,
+    "y": 3087
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Homepage Info Group (Image on Left)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9587B803-DC98-4EDD-BCC8-B57C3DC353FF",
+      "overrideName": "D061402A-F1D2-4166-AF17-6C594689CAA4_symbolID",
+      "value": "B21C2317-4AAA-4223-8F3D-847B61FF55EE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F8F6E14-F9D5-4233-9A83-A4FE0A4CA19D",
+      "overrideName": "23BB0F45-16F2-4BF9-99D9-3BDDAA6EAD72_stringValue",
+      "value": "Cook"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEC4A4BC-85CF-4E24-BED5-D2A60038CE02",
+      "overrideName": "534E847F-7F3B-4EB4-823B-1DE47FAB40FB_stringValue",
+      "value": "Easily create simple and delicious home-cooked meals in 20 minutes or less with Dinner Thyme's pre-cut and portioned ingredients."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2DF5C014-A5CD-4AA2-9016-3C4AAA6F7967",
+      "overrideName": "D40C9FE5-75B3-4125-9569-955471D25227/63EECFB5-7331-4234-9467-7EAAFE5FEEB2_stringValue",
+      "value": "4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.4811852,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "80A04D2B-DE9F-4C14-8C29-97C6EC0BA562",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 14.811852,
+      "type": 0
+    },
+    "do_objectID": "FA6326A9-FD6F-4AD2-80E4-C35E89CC04BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F090EC99-CF64-44E4-905E-E5C99D7B6864",
+  "verticalSpacing": 0
+}

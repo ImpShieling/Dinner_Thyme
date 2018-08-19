@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "A8DF0EA2-410D-451F-81E6-46EF6B676C07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90EFCF3E-2432-4511-89D6-35658C5C2B92",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8FF24B60-08E5-40BC-AA92-F0678932FB90",
+    "height": 2645,
+    "width": 1020,
+    "x": 209,
+    "y": 1601
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3713BF4D-B995-45D1-BA12-76D95B85D359"
+    },
+    {
+      "class": "text",
+      "id": "8EC0E3C3-A0E7-466F-B868-3E0EF0CB1865"
+    },
+    {
+      "class": "bitmap",
+      "id": "1A4598AB-6ADC-42C4-A7CB-2494518DDC63"
+    },
+    {
+      "class": "bitmap",
+      "id": "E6210709-D322-49F6-8047-02652654E017"
+    }
+  ],
+  "name": "Recipe Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1B2C74C-13CB-4BF0-863A-39C75CB67D42",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

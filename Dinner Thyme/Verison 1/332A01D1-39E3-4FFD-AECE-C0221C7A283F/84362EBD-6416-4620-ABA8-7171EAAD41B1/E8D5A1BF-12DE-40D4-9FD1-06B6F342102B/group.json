@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "E8D5A1BF-12DE-40D4-9FD1-06B6F342102B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9873ED88-AC22-4248-90C6-7EEA9C47F821",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "911CAC89-C417-4E9A-8E5A-30651CC7B134",
+    "height": 834,
+    "width": 1025,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "49259338-48E2-40AB-9141-13299C70ADA7"
+    },
+    {
+      "class": "group",
+      "id": "1A97B664-D99E-4ED6-99E2-858345B66EDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F54E18C-1EB8-4B9B-9856-A334E44176E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4D19AE2-AF18-41D8-9816-6ECC0A1E8850"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFF595E0-15D1-49A4-989F-DD7881E686BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2302EBE0-D269-47D7-884E-5F3EDC360224"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C972914-8592-4DB6-9674-E6A81244822E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3AC4E12-408E-4B6B-93F0-2A8C4B86E8AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92401A80-6B24-4BCE-AE4A-B2F97DC54C15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC892CE3-93CD-42C1-AD39-928A36E922C3"
+    },
+    {
+      "class": "text",
+      "id": "B9F6A178-4382-46B9-9BE9-B4321928C9D7"
+    },
+    {
+      "class": "text",
+      "id": "3088FCE6-E52A-472C-BA87-D2F9A1DD2E88"
+    },
+    {
+      "class": "text",
+      "id": "1B24ED0A-FB43-4719-BA74-9B78E1578844"
+    },
+    {
+      "class": "group",
+      "id": "962BA2C1-D767-400B-8953-6266619688C0"
+    }
+  ],
+  "name": "Filter Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "505F7C4D-A57A-4FA1-B1EB-F0AED1B6DF00",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

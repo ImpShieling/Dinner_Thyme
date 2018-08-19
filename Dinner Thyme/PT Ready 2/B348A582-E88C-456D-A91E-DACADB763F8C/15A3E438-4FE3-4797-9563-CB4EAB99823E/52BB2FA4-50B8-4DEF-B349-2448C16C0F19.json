@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "52BB2FA4-50B8-4DEF-B349-2448C16C0F19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E58FF99B-DD99-463F-A148-7705FBE7F2FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "792987A8-BE48-4BAF-AFA3-296E78565834",
+    "height": 467,
+    "width": 303,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Meal Card/Meal Card Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E09660B-2B59-44C6-8B27-5550DFC58BA6",
+      "overrideName": "02FC9EF1-79F8-4A57-A6F4-AFFB7D737EC5_symbolID",
+      "value": "38EC7E3F-9610-4FBD-929C-C31C8C9E709D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "788DEFC4-E1B0-429A-8EC2-7E7AED0DA464",
+      "overrideName": "F5896F37-4096-4598-BFD2-F3333F0895B9_stringValue",
+      "value": "Country Fried Chicken With Sausage Gravy Over Kale and Carrots"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E3A9DA8-C2B5-43B1-B2CC-9CBBBCF0EAFC",
+      "overrideName": "C7BB1987-2437-4AE0-9F13-4400C70CBA74_stringValue",
+      "value": "12"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3D3A92E-5CC4-4E6F-B183-2C704FCB1839",
+      "overrideName": "94584E70-B8AB-4DCB-8A21-EF1B0756FC11_stringValue",
+      "value": "21"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CF34848-A938-4917-921F-3913D5DB5D8F",
+      "overrideName": "4388597C-F58E-4A84-9098-53C3CE27A3C5_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0CB0326-F758-4635-858F-F87D0820E499",
+      "overrideName": "317B2BDB-407C-44E2-B80A-0B0B8A3F4659_symbolID",
+      "value": "4E2E5C75-2C6E-484B-834F-51D94CA2DB42"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6417E5C8-A352-43DC-BFBF-3108FAAB452F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8F508C58-D528-43BD-B2DE-B5C56F0A32C3",
+  "verticalSpacing": 0
+}

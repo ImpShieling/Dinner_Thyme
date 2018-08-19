@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "892494A0-394F-4003-A331-3AE07261AFB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6954152D-E741-4D9E-9FC9-28A2D7FCE0F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "607CDA3A-757B-4C14-A610-1598BA2796B2",
+    "height": 159,
+    "width": 611,
+    "x": 621,
+    "y": 759
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A6665ED1-36FC-43EA-88B1-6BA1A28653BB"
+    },
+    {
+      "class": "text",
+      "id": "A88FCE6B-3FEE-4876-8163-6922D8AE7C6F"
+    }
+  ],
+  "name": "Chef's Note",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0381A97-F303-41E2-9359-2865B1D84051",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

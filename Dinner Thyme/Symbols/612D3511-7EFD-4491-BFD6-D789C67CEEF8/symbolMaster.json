@@ -1,0 +1,125 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "52390412-A02E-46D0-80F5-9113E341E51B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2953,
+  "do_objectID": "612D3511-7EFD-4491-BFD6-D789C67CEEF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57F355E7-D93E-419F-B666-7B6E0D3E672E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4795DF1C-BDF0-4B44-8574-0A6AC242D743",
+    "height": 619,
+    "width": 1024,
+    "x": 951,
+    "y": 1766
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "EB646AFD-8FAE-4265-AB55-5FEA360671BB",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 16
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8B42F86C-738A-47A7-9586-70C493227A77",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "02055FC1-F5CE-40F7-AC61-AB1DF8DBA4FC"
+    },
+    {
+      "class": "group",
+      "id": "36DE4F11-64AC-4260-A1FD-56EFE7882DC9"
+    },
+    {
+      "class": "group",
+      "id": "81F9C791-52D6-43CE-ACF2-56C9F142CE01"
+    },
+    {
+      "class": "text",
+      "id": "801F4FE4-B002-4F65-871B-C8E98AAEF9F9"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "do_objectID": "DAD7B2D9-1E06-4FC2-9901-ACB7FA612020",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 768
+  },
+  "name": "Desktop Info Group (Image on Left) Colored Background ",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2F57ED68-ACD1-415E-A137-F7609542A81C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.33333333333333,
+      "type": 0
+    },
+    "do_objectID": "C794CC41-569B-46B1-81D1-A6C942040426",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "40403374-F0E7-4E3B-8758-6CB7F6319CB7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DD1E2D11-CB1F-467A-803C-AE85B068B5F4",
+    "guides": [
+    ]
+  }
+}

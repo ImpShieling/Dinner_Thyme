@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "259E1285-0148-4DB2-966B-F9B152FD78C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9D418E0-124A-4580-B139-75B3BD06A827",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FB59BA4D-9859-4599-8091-107D4524F64C",
+    "height": 1543,
+    "width": 1028,
+    "x": 0,
+    "y": -1002
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a9314ae8f5767c258d6ea074a6722dd1b3e9d622.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "zach-miles-229113-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDF6A187-08CF-4AD5-BB96-44274B9C74B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

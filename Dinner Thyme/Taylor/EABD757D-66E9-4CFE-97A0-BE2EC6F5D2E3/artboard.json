@@ -1,0 +1,277 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5AF0EEC4-E2B1-4D2B-9425-10D6974264AA",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "EABD757D-66E9-4CFE-97A0-BE2EC6F5D2E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9839A90E-B483-411E-8C52-3E86207AB80A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "94A5E6DD-6AA2-440F-9630-B8E7E0D8337D",
+    "height": 4900,
+    "width": 375,
+    "x": 12827,
+    "y": -1802
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "2824AD4C-7D93-49CA-8480-2A7550AC6E85",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 16
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CE9A56DC-E842-4D1A-AD1A-4551CE8D7F3E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "013E9DD4-0677-44C4-80B0-10E6969A5D0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "344EA95C-BC3B-456B-965D-02FD17C98715"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8EBC7C5B-2DB5-4DE4-A6ED-C4639E2A3CC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70CDAF86-A546-481C-BCD1-482E5D2EE902"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "42D273D4-CB16-47A5-A651-4AD970EC50F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E32EE5C-DFBD-46AB-A1C5-49FC402DE657"
+    },
+    {
+      "class": "text",
+      "id": "12C85B91-B977-4436-8B94-16B67F7E8F6C"
+    },
+    {
+      "class": "group",
+      "id": "069E6B2F-2453-4589-94A0-4A168F002887"
+    },
+    {
+      "class": "group",
+      "id": "9F35912F-A02B-447B-935E-99AFA3D05415"
+    },
+    {
+      "class": "text",
+      "id": "CE432330-B685-4ED7-91A1-AF4365C72A31"
+    },
+    {
+      "class": "text",
+      "id": "935FC7A2-A03A-4DEE-916E-E292E415F006"
+    },
+    {
+      "class": "group",
+      "id": "05606A75-7BCC-4EE5-BEB2-99E72B6BA4B8"
+    },
+    {
+      "class": "group",
+      "id": "9BCF3B18-EF2A-469F-8A79-4D8245187310"
+    },
+    {
+      "class": "group",
+      "id": "1F268700-6029-44A6-AA81-4D3413224AF6"
+    },
+    {
+      "class": "text",
+      "id": "BA410120-6F5E-41BA-AC58-84C451307551"
+    },
+    {
+      "class": "group",
+      "id": "745B4201-2F90-47D9-A4F8-25F5D97B027B"
+    },
+    {
+      "class": "text",
+      "id": "19BDA93D-DF8A-48CD-AF6A-A92C3A548C8B"
+    },
+    {
+      "class": "group",
+      "id": "DF0A657F-3E99-4A21-870F-45226F008002"
+    },
+    {
+      "class": "text",
+      "id": "20912B69-BC06-4CF9-AF41-BEABC048D7E3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "633247C4-D14B-4038-8C3C-4EAFF32AF76D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2AFE19B-C74B-48FF-A9E0-FBD9A4502CC0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "79B4B728-DCA7-41CD-9D5F-988E8A7A4EF8"
+    },
+    {
+      "class": "group",
+      "id": "E3989B23-7F95-42E8-8DD7-F8559662023B"
+    },
+    {
+      "class": "group",
+      "id": "F0B93892-6DCF-4DBC-A2F1-762F83F1E544"
+    },
+    {
+      "class": "text",
+      "id": "39CB3C2C-FAC1-40A9-9CE5-8E9AD8875F5D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2B4004A9-D79A-4863-8A35-DDEF68B0DA28"
+    },
+    {
+      "class": "group",
+      "id": "3886314E-0E0A-483C-A4C2-3B2395F1DFA4"
+    },
+    {
+      "class": "group",
+      "id": "54286144-8F8E-4FA9-B972-549E7A6266DB"
+    },
+    {
+      "class": "group",
+      "id": "5E000945-C72D-40CA-B09F-002A9C81BD0B"
+    },
+    {
+      "class": "text",
+      "id": "3EB91882-08D7-4F87-AA2A-8433B40438AE"
+    },
+    {
+      "class": "group",
+      "id": "3C813064-E32A-466D-98B0-BDE46961A0CE"
+    },
+    {
+      "class": "text",
+      "id": "5ABB23A7-D121-4B9C-B8F6-BF8EEFD81142"
+    },
+    {
+      "class": "group",
+      "id": "0DA6806B-50D7-4242-9A49-42B0E8F0541D"
+    },
+    {
+      "class": "text",
+      "id": "6A062749-022C-46DD-8322-5C2A1FE6D61D"
+    },
+    {
+      "class": "group",
+      "id": "5DB0F53E-7B5B-4556-AA0D-0458CC92D559"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F3D97C9-1D29-48BC-B6E0-90E26F6EFE5B"
+    },
+    {
+      "class": "group",
+      "id": "D002F326-81CC-4966-8D85-4D5058D74819"
+    },
+    {
+      "class": "group",
+      "id": "095192C5-3228-4206-8DC6-9AF677DA77BB"
+    },
+    {
+      "class": "group",
+      "id": "356587BE-068B-4939-B6F7-8E40712F7648"
+    },
+    {
+      "class": "group",
+      "id": "D9BAEC8F-E5E0-4AC5-9952-EF7CE5427E48"
+    },
+    {
+      "class": "text",
+      "id": "A5D8134A-7866-4000-8D1E-3E19F35F2C15"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "do_objectID": "2D12CC16-2138-4C70-B8B6-FA2584BDE24B",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 37.33333333333334,
+    "guttersOutside": true,
+    "horizontalOffset": -324.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1024
+  },
+  "name": "Home - Mobile (Taytay)",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB338C11-D773-4CD1-8907-FB0FB5D427E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BF9585DE-C06D-48F6-851A-78A0F44BC456",
+    "guides": [
+    ]
+  }
+}

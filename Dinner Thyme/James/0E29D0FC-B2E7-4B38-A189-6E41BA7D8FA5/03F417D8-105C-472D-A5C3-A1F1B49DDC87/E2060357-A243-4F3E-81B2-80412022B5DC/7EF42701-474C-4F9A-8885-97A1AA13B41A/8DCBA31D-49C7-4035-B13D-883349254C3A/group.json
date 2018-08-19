@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "8DCBA31D-49C7-4035-B13D-883349254C3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "00CEE260-5F73-4019-BB72-45BDC743AD5C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91C7E2F6-A1A4-406E-A269-D2788ED9E2B1",
+    "height": 289,
+    "width": 163,
+    "x": 64.32701494365574,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "497D8EA7-763A-461E-8AF1-86CB0EA7FDB7"
+    },
+    {
+      "class": "group",
+      "id": "8B2A7D7C-92D2-45D3-AB58-A49E2F265933"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FFA05175-53B0-4D22-91F9-C093D2CD22DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "00C56696-1E66-4E22-8E28-DACE0D5FC26B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD7670DF-D5AC-4245-8691-B28ABA8BFD07"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7ED98172-4B87-40D5-95F5-6361FCA9DDDD"
+    }
+  ],
+  "name": "Freezer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "10E38AE4-DEF8-4C53-B930-11D84FC3D8A2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "type": 0
+    },
+    "do_objectID": "6354EA3D-67AC-4D66-A04C-8C647B585E99",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

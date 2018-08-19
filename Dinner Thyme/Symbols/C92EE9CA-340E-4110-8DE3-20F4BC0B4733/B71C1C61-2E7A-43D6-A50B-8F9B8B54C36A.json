@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "B71C1C61-2E7A-43D6-A50B-8F9B8B54C36A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B5EBE19-8A23-43D9-98D0-60B585906A2A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3180FF53-3BDD-4815-A84B-3B7FC176669F",
+    "height": 83,
+    "width": 213,
+    "x": 81,
+    "y": 338
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/75ccc36d034d5019f022b119670599c64b6c0e6c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "google_play",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E361C675-4472-462A-A4D0-06B6A776BC4B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

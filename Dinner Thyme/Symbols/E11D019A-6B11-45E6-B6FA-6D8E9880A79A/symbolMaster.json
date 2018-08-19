@@ -1,0 +1,95 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 5199,
+  "do_objectID": "E11D019A-6B11-45E6-B6FA-6D8E9880A79A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 296,
+    "width": 240,
+    "x": 100,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3D96EE36-099D-4014-A838-7289CAEC8EA7"
+    },
+    {
+      "class": "text",
+      "id": "672099A0-E689-480E-948C-3F15F30AB286"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "36B95F24-9D4B-47F0-861B-09CA371B1771"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30D962F5-0ECF-4A07-99FB-BEE47F26C51B"
+    },
+    {
+      "class": "group",
+      "id": "DE46D793-4CCA-4380-984F-0394F14657BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "882D9035-E1BD-43F0-A5B7-1EC9B660C9B4"
+    }
+  ],
+  "name": "Meal Card",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "175D9EC8-C906-4886-A948-215C3519AD25",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

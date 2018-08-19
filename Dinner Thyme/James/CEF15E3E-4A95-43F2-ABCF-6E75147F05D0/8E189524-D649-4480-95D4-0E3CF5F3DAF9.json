@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8E189524-D649-4480-95D4-0E3CF5F3DAF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B7199E3-6A2A-4552-BD90-BBC25275680C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F479051-BCDE-4C20-93AE-F95FB5E7789F",
+    "height": 375,
+    "width": 1440,
+    "x": 0,
+    "y": 1858
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer_Jason",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53CEE65F-D90C-44CD-B715-238AE9EDD761",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8EC03FD5-5F35-4890-BC24-5017C2E77D86",
+  "verticalSpacing": 0
+}

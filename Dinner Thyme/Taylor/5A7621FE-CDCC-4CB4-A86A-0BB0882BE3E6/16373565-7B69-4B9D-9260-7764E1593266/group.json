@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "16373565-7B69-4B9D-9260-7764E1593266",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 174,
+    "width": 98,
+    "x": 140,
+    "y": 1183
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C1A0B340-2DF1-4DFC-9D2B-D65B39A5EA06"
+    },
+    {
+      "class": "group",
+      "id": "BA8A8127-DC56-486A-9CB2-09CDECE2B7DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "907753A9-F431-4A5E-A5DA-B61078246444"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1118966-100F-4CBA-8576-D1443D6DDD9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A66D8994-5F8F-4D4C-9E64-7C7F7552C5C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "784B07BD-83CD-47C1-908E-DF3F8C6EC27B"
+    }
+  ],
+  "name": "Freezer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.800000000000001,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

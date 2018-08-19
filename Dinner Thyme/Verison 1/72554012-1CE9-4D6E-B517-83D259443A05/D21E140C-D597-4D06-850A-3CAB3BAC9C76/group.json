@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "D21E140C-D597-4D06-850A-3CAB3BAC9C76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4F9AA5A1-492C-41E6-A4B1-7EF8D62D3D63",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55ABD2D0-70B1-402A-9904-54DEA31523C9",
+    "height": 180,
+    "width": 300,
+    "x": 570,
+    "y": 2048
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "204351D9-E667-43B9-9512-7860F1FB5C24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6524CF58-520F-478E-8849-E3AF23ABBA8A"
+    }
+  ],
+  "name": "Image Copy 7",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D06B0EA2-39A4-4819-9D26-FF3098A8AE2C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.5,
+      "type": 0
+    },
+    "do_objectID": "03D93DF2-89F8-4927-B39D-52F70B95A05C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

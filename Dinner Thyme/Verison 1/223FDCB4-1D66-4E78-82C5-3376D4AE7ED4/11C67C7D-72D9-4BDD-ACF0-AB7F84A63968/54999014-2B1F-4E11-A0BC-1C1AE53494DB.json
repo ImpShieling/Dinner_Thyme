@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "54999014-2B1F-4E11-A0BC-1C1AE53494DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75576936-9CC0-4BA6-A6EF-E10E9DFCF925",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E966118E-79E8-4C8A-A7C6-2AB9550B1090",
+    "height": 620,
+    "width": 1024,
+    "x": 0,
+    "y": 1395
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Additional Info",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D69E7D12-C825-480F-A588-7CD1582DF5B1",
+      "overrideName": "5136ED7B-C7FF-4DCA-A151-030F9473EBD5_stringValue",
+      "value": "Additional Info"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98AE9472-8FAC-48E2-8C73-B93BAC8F1753",
+      "overrideName": "2BD6CBEC-9AE3-46A8-9274-D3551E83B3E6_stringValue",
+      "value": "Contact Us"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "93A3B632-5C9E-4D4C-B218-9087CE24716B",
+      "overrideName": "AF635D90-2419-45DE-A00B-C792B082F499_stringValue",
+      "value": "Terms & Privacy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABF064EF-FAAA-4E71-B572-61305F845391",
+      "overrideName": "917435EF-40EF-45D7-8345-5B384DCBBF5F_stringValue",
+      "value": "FAQ"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8916FDF6-ACA8-421B-B2CF-CB3899E72BBC",
+      "overrideName": "E48952B2-D4AF-45EE-B19D-131247A7805C_stringValue",
+      "value": "Newsletter"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AD4F84A5-0FE1-44DB-8F7E-3F2380472A42",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "863F58AB-5C5B-4C5B-8975-9300380A7B7A",
+  "verticalSpacing": 0
+}

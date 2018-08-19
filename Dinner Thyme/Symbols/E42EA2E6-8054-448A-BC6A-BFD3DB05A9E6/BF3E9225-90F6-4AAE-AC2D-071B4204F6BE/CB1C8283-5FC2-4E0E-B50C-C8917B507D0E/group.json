@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CB1C8283-5FC2-4E0E-B50C-C8917B507D0E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 236,
+    "width": 389,
+    "x": 0,
+    "y": 0.1999734744101422
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "641DC794-4BA7-4C89-9F1C-FC6DE4542461"
+    },
+    {
+      "class": "group",
+      "id": "DF02E844-0E28-4AC2-94C8-3F06901F35AF"
+    },
+    {
+      "class": "group",
+      "id": "CC2CA49F-7227-4325-934C-FC2D2D112618"
+    },
+    {
+      "class": "text",
+      "id": "C5C65F80-CB29-4443-AB0A-15BD1600F18B"
+    }
+  ],
+  "name": "Homepage Info Group (Image on Right) Colored Background",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.332,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

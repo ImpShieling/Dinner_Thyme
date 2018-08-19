@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "019C8550-61E2-4E3A-B5EA-AB0E75EC5259",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EDC7A40-3BBF-43A1-A88C-5D82EF02552A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BCD4B895-30BB-4AAE-83A6-32E604601910",
+    "height": 55,
+    "width": 186,
+    "x": 95,
+    "y": 260
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5aa9b41cb4c3ea61214940a059d0769499c9dabb.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "apple-app-store-icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F6654CE-6358-4986-822A-24769CCC2825",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

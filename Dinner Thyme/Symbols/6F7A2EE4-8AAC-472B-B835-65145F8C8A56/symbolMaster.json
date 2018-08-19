@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E377E001-BEAD-46C9-88F7-ED8CE611499D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 5074,
+  "do_objectID": "6F7A2EE4-8AAC-472B-B835-65145F8C8A56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5EA05BBA-5522-4046-9263-05C26FCE8315",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF281624-5484-4E19-88A4-A97B130701E7",
+    "height": 296,
+    "width": 240,
+    "x": 60,
+    "y": -355
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EED165F6-F855-4A7A-B8BE-81E7E2C645D3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DF1F5C60-324C-4B15-A31B-00F954763A8A"
+    },
+    {
+      "class": "text",
+      "id": "7AC8BF0F-7497-4377-9E0B-71EB84E0461E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AEB2C7BD-8510-4B5A-BC76-3216A533D4E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FDF44365-CF4F-400E-B62C-0108D2474F41"
+    },
+    {
+      "class": "group",
+      "id": "46D25E8D-713A-4B46-8789-84507A894404"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4B6372F-108D-4148-96AA-E2AB240C2D2D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "37742A8E-7529-4ABC-8FEB-5DA267FA2F65"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F839D28A-F6A9-4C6C-BD04-7D4426C721D1"
+    }
+  ],
+  "name": "Meal Card Old Idea",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E04D6C6-E1C2-424E-9126-A83AE1C9F075",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "319D48ED-2758-45E4-8E0B-0FEBCAD2C2EE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D056064C-253B-4A51-BCB8-6DF69CCE2283",
+    "guides": [
+    ]
+  }
+}

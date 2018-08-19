@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "BDB0CCA0-6841-497D-86EB-20C834ABAA1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6EB5501D-8855-4546-9921-C9E5488AD166",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D6646C3-D66F-4073-92C9-21227A345938",
+    "height": 632,
+    "width": 1045,
+    "x": 198,
+    "y": 3826
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Homepage Info Group (Image on Right) Colored Background",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "001D346C-3066-4B6B-A53C-8023BB74484A",
+      "overrideName": "99294AE6-5076-41F2-8989-8EDD18CA7841_stringValue",
+      "value": "We understand that people may have a negative perception of frozen foods. That is why we apply FlashFresh technology, which is an advanced form of freezing, to all our ingredients. This means that you can stock up on your favorite items without worrying about your ingredients going bad. \n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C4C947F-B0C3-44B1-A8EA-5960A3F6DAEB",
+      "overrideName": "C0B598CB-31EB-442C-9A54-37C944460FE5_stringValue",
+      "value": "Learn More"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48B3A34D-5822-47EC-997F-6665846EF75B",
+      "overrideName": "7B95FF89-DE56-4B5F-82ED-FBB0AD6E484E_stringValue",
+      "value": "Why Dinner Thyme?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A9B2CFCC-CA5F-4193-B608-507F76F259D4",
+      "overrideName": "83574826-68F2-46D4-B066-3737DB859928_symbolID",
+      "value": "7CB65EC0-2E3C-4EF2-AD22-F3A3D26878F8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.36125,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8A8213A4-CEDA-4AC4-B674-F5FE61C206DA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.6125,
+      "type": 0
+    },
+    "do_objectID": "7056A230-A3A8-4601-9FA6-FE449D4010BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "411D7A11-8955-4C5E-BC56-28F615F6D662",
+  "verticalSpacing": 0
+}

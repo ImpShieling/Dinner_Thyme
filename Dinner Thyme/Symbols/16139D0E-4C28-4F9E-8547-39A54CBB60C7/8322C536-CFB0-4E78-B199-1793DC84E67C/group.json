@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "8322C536-CFB0-4E78-B199-1793DC84E67C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 109,
+    "width": 315,
+    "x": 28,
+    "y": 23
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "500BB031-DE57-4B59-89EF-AB0B9E6348B1"
+    },
+    {
+      "class": "text",
+      "id": "F9D8D83A-6680-47F8-B896-D4506C707162"
+    },
+    {
+      "class": "text",
+      "id": "014DC271-6AFE-48D8-961B-C1076CF6B977"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "784B6638-359C-46DD-B80A-7ACC8A92AA1F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92353732-61CC-456E-A658-425F14246EAA"
+    }
+  ],
+  "name": "Newsletter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

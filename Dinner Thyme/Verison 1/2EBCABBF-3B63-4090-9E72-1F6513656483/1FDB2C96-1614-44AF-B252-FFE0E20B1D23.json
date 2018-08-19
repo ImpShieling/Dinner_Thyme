@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1FDB2C96-1614-44AF-B252-FFE0E20B1D23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F159A9D-B618-4E66-BEFD-D619029304BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C371E56-7714-4730-A821-DEF900886925",
+    "height": 631,
+    "width": 1024,
+    "x": 208,
+    "y": 897
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Desktop Homepage Info Group (Image on Right)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72ED92F5-CB0C-4B06-8D14-AACA03503749",
+      "overrideName": "180AAA4F-6190-44F6-AAE5-887A7406828A_stringValue",
+      "value": "Choose from a variety of meals made with fresh high-quality ingredients. Dinner Thyme meals are made using FlashFresh technology, which locks in maximum flavor and nutrients. No subscriptions or commitments. Order any time."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9ADA903D-13A1-47C2-9BE1-2C6CDC1B5A98",
+      "overrideName": "15C5E485-AFB6-4D9F-ACB4-C66C58D2F02B_stringValue",
+      "value": "Choose"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C63BB92C-DF4C-4116-9606-46EE0CB42EFC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "60AF4C44-D84F-4F47-9D2E-D65E2EF61CD1",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,204 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "240E92AA-AAD3-4771-9F00-C5339BCFDF8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4043,
+    "width": 375,
+    "x": 9272,
+    "y": -1802
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 16
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B47E0EA1-15CA-47D2-9963-9784149F1DF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90750C41-CC0B-4F44-B665-D84205EB949A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A9722B6-0FF3-4AE7-8894-8E7C4E03B869"
+    },
+    {
+      "class": "group",
+      "id": "D023C107-65BC-4126-904F-7D811E818933"
+    },
+    {
+      "class": "text",
+      "id": "DF479C3C-99B3-4F2D-B451-FDAAE3606DCA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "868A0354-E2BC-4387-8887-1706B85A8B58"
+    },
+    {
+      "class": "group",
+      "id": "836EB588-37DF-440D-8051-DE699A0051B7"
+    },
+    {
+      "class": "text",
+      "id": "D4228D49-04E5-4AA4-A517-011409426895"
+    },
+    {
+      "class": "text",
+      "id": "E8408E5D-135F-4C03-BD84-94BA66B64168"
+    },
+    {
+      "class": "text",
+      "id": "C5200703-2461-4E16-81A2-75A5F7AD550B"
+    },
+    {
+      "class": "text",
+      "id": "E24AB6F6-6A65-4E46-AB2A-2823D225730E"
+    },
+    {
+      "class": "text",
+      "id": "0498F1B8-9CFF-4203-BF0F-97BB18A46C7B"
+    },
+    {
+      "class": "text",
+      "id": "7E055A56-FAEC-40D5-A090-67E674AE376B"
+    },
+    {
+      "class": "text",
+      "id": "4F266063-5D51-4A30-9115-0A5539452EB6"
+    },
+    {
+      "class": "text",
+      "id": "E470233C-E4AD-428D-A1AC-89B54F4D2830"
+    },
+    {
+      "class": "text",
+      "id": "59239804-8BB9-4447-9B08-B8C3EDCA389E"
+    },
+    {
+      "class": "text",
+      "id": "1040E83F-05FE-4D9F-B840-802D31DCD96C"
+    },
+    {
+      "class": "text",
+      "id": "BE60CEA6-7990-4845-9C00-F9AEEC80572C"
+    },
+    {
+      "class": "bitmap",
+      "id": "A33E1D12-BF9F-4D33-A9B2-BA3EC6FDDFDC"
+    },
+    {
+      "class": "text",
+      "id": "FD0EF612-F645-4DF9-9307-D37C78E9E534"
+    },
+    {
+      "class": "text",
+      "id": "EAFAE749-E30B-4DAB-B406-F4D4465B0378"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD28FF33-DCE6-4CB4-9C01-F8BB03443E6F"
+    },
+    {
+      "class": "text",
+      "id": "4A3672C6-E7F3-4D8F-8997-C07590FAB112"
+    },
+    {
+      "class": "text",
+      "id": "46ACF5DF-283A-4442-B838-8B20AA492AE4"
+    },
+    {
+      "class": "text",
+      "id": "B9263DD5-F7FD-40AF-A8E6-CB1C9FE09EFC"
+    },
+    {
+      "class": "text",
+      "id": "1D1D46F7-D87A-42DA-BD87-58D6E2D7D26A"
+    },
+    {
+      "class": "bitmap",
+      "id": "C8135E81-931F-483D-BDC9-958AA44AEB51"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 37.33333333333334,
+    "guttersOutside": true,
+    "horizontalOffset": -324.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1024
+  },
+  "name": "PDP - Mobile w/ Nutrintional Info (Taytay)",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

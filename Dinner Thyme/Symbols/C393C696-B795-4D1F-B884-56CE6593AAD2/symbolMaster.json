@@ -1,0 +1,119 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2777,
+  "do_objectID": "C393C696-B795-4D1F-B884-56CE6593AAD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 764,
+    "width": 1024,
+    "x": 1980,
+    "y": 6847
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BD17AF19-1400-4E19-AE4F-71CAD5232006"
+    },
+    {
+      "class": "bitmap",
+      "id": "06C094FB-F483-418E-AD0D-8D49A4B307AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05F0561E-2789-4F3E-8BEB-ECC0ECF49B9A"
+    },
+    {
+      "class": "group",
+      "id": "D9ADAEA3-A707-40C2-A28E-DC57ED30AA12"
+    },
+    {
+      "class": "text",
+      "id": "187C753F-D6C9-4378-8171-364319A370E3"
+    },
+    {
+      "class": "text",
+      "id": "11FEC248-B63C-4990-99A8-82667530CDE3"
+    },
+    {
+      "class": "group",
+      "id": "2E3E214A-D59F-4175-B945-EF4CD3ECFDBB"
+    },
+    {
+      "class": "text",
+      "id": "2017CDB0-8EC3-47FE-A4CD-87BD2DC00211"
+    },
+    {
+      "class": "text",
+      "id": "26C1FDDB-D690-40A2-9677-DC6F1BC35D0A"
+    },
+    {
+      "class": "group",
+      "id": "AC3C3622-860B-42B3-92A5-B45FAA56B954"
+    },
+    {
+      "class": "group",
+      "id": "972312D5-E034-4ED0-A657-3EE4AC1290FC"
+    },
+    {
+      "class": "group",
+      "id": "9970A5B8-6703-4CAE-B914-6D45B6ED8032"
+    }
+  ],
+  "name": "Eco Ad",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C0EA507B-71A5-4B28-91FB-6B288952ADE5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

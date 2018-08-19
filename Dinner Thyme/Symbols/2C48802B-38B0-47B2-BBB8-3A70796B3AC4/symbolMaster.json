@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E94D4348-D423-410E-AFC4-3AA7BBF30D72",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 906,
+  "do_objectID": "2C48802B-38B0-47B2-BBB8-3A70796B3AC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65550B9F-CCEC-4999-BD11-FC24F84BBED5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "95EE15C1-89E7-43CA-91C8-ECBF18B530A2",
+    "height": 467,
+    "width": 303,
+    "x": 17018,
+    "y": 470
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2BFE7EE0-344A-40F3-B0E8-138386EF32E1",
+    "guides": [
+      32,
+      269
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7A31C562-4B17-4796-B7B3-4779CF13D857"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F710EA71-15D8-4D8C-BC68-FD84AD10A96D"
+    },
+    {
+      "class": "group",
+      "id": "5F71C569-8C64-4D6A-BBB9-D573F549E20A"
+    },
+    {
+      "class": "group",
+      "id": "1C7D44A7-B490-4206-8CA1-3673B6F40152"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7159ADF-839A-4553-9B89-66D0CFA544B9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9563C25C-A562-4002-8192-68F30BC34394"
+    },
+    {
+      "class": "text",
+      "id": "A2A4AFF4-4DD1-4771-8FCB-792515ADA901"
+    }
+  ],
+  "name": "Meal Card/Meal Card ADDED + ADD MORE",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40EEBE0A-89C2-4A0E-A4B5-79C378C07F33",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FA4E8873-D657-449F-A803-C5E6AD5B8B75",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "78654357-8202-48DE-A8A2-9E4F9B15ADEF",
+    "guides": [
+    ]
+  }
+}

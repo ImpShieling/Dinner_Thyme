@@ -1,0 +1,61 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "8EA91BA4-DC40-451B-825C-50856F29E359",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA565E67-3EE6-4BEB-9FC7-7AD2D0A96C78",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9F29387A-B458-4170-8576-8CF0EAF20939",
+    "height": 353,
+    "width": 530,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/1122b9d0e7d6c0081362926853feb09b6e9c6dee.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "leone-venter-469710-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0CAB2430-A964-42EF-8E77-1D4EADDD991D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.9259259259259257,
+      "type": 0
+    },
+    "do_objectID": "54C889AD-D182-4300-8A21-86EF7730166A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

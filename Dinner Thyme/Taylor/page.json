@@ -1,0 +1,149 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "FFE155B2-CB50-44AB-898D-9023DF5B7F40",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -628,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "8B8F3132-475A-47BF-AA65-B9880ACBEC2B"
+    },
+    {
+      "class": "artboard",
+      "id": "B8251F64-C817-478E-992C-715ED6D5066A"
+    },
+    {
+      "class": "artboard",
+      "id": "240E92AA-AAD3-4771-9F00-C5339BCFDF8C"
+    },
+    {
+      "class": "artboard",
+      "id": "45772CD5-AA33-4441-ACD3-567BF8EA172D"
+    },
+    {
+      "class": "artboard",
+      "id": "FBA38ECE-304E-4EDD-859A-5BBE039BFE0E"
+    },
+    {
+      "class": "artboard",
+      "id": "EABD757D-66E9-4CFE-97A0-BE2EC6F5D2E3"
+    },
+    {
+      "class": "artboard",
+      "id": "5A7621FE-CDCC-4CB4-A86A-0BB0882BE3E6"
+    },
+    {
+      "class": "group",
+      "id": "5472D4E6-4D7E-4A55-B790-CB67B8F92841"
+    },
+    {
+      "class": "group",
+      "id": "F5AB4209-CBF1-4D1B-BA06-17C7793FE9B7"
+    },
+    {
+      "class": "group",
+      "id": "43189391-3000-422E-A6C0-A1397DF11F2E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "728412FA-2A10-42A4-AA85-956E90E0BD88"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BBC49B1F-8F4B-4C2D-B0CE-EEA9AC0D5A61"
+    },
+    {
+      "class": "text",
+      "id": "F79CC6CF-FE62-49F5-BF29-F8B99EC8CC2D"
+    },
+    {
+      "class": "text",
+      "id": "699C6579-D36C-4E50-BAE8-6BDFF05B3CBA"
+    },
+    {
+      "class": "text",
+      "id": "B1789B2E-72E0-4D8C-902D-54DA56BBE4FA"
+    },
+    {
+      "class": "text",
+      "id": "04FA7BA6-E35D-4139-82D7-FA380E4CFD68"
+    },
+    {
+      "class": "text",
+      "id": "A7A572EE-7B31-4DFB-A920-3E682DA16532"
+    },
+    {
+      "class": "text",
+      "id": "1949ACA7-79EE-46B8-8EDA-D61E07D03EFF"
+    },
+    {
+      "class": "group",
+      "id": "EA24934A-065E-4C4A-9DC7-13027EABF9BE"
+    },
+    {
+      "class": "artboard",
+      "id": "00ABAF46-D7D6-43F4-9FFC-E3CD575FD691"
+    },
+    {
+      "class": "artboard",
+      "id": "5E377ABD-8616-4669-AFA1-F7CD1B2A65E9"
+    },
+    {
+      "class": "artboard",
+      "id": "C0614C39-B702-4B71-887C-D2E63405EAC5"
+    },
+    {
+      "class": "text",
+      "id": "5346E9F7-44F1-4B29-82E1-5F1F8BD94C62"
+    }
+  ],
+  "name": "Taylor",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -516,
+    "guides": [
+    ]
+  }
+}

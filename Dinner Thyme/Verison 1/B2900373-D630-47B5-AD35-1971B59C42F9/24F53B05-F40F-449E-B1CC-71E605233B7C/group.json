@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "24F53B05-F40F-449E-B1CC-71E605233B7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D65AE6C-EFE7-45FB-892B-7CB22968E53D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "96F69D1B-8203-4995-89D1-4F966156686D",
+    "height": 297,
+    "width": 608,
+    "x": 624,
+    "y": 194
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DD5B3AFF-D8E8-4332-800D-3FCB6A1F9BC5"
+    }
+  ],
+  "name": "PDP/Menu Item Details",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "499B32BB-8585-45D6-97B8-6B8FB4D40CD3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

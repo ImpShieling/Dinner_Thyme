@@ -1,0 +1,125 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 32.67
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 49.005,
+            "minimumLineHeight": 49.005
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 319,
+        "location": 0
+      }
+    ],
+    "string": "Instead of being a service that requires you to order every week, we are a service that encourages you to order several weeks at a time. This way we can keep our costs down, saving you money and preserving the environment. Because we are a no-subscription service, our minimum order is $80 (the equivalent of 4 meals). "
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "do_objectID": "C0124EC9-2791-46FF-B00E-07C41D3634A8",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "211D61E1-2557-4D7D-A006-6EA099665CFD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1DAD79D0-E2C5-4273-99B1-4668E6B4B648",
+    "height": 493.5465805061928,
+    "width": 500.5,
+    "x": 522.5,
+    "y": 28.45341949380719
+  },
+  "glyphBounds": "{{0, 14}, {497, 472}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Maecenas faucibus mo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "30B21F61-9073-4CF2-948B-7B42E0B3A05C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 18.15,
+      "type": 0
+    },
+    "do_objectID": "BAF76787-40CD-4053-8BC2-8BB3D83C5681",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "89A89702-9A54-4178-952A-46F82B96C8D1",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "76611D7E-598D-4922-9312-2303105E913C",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue-Light",
+            "size": 32.67
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 49.005,
+          "minimumLineHeight": 49.005
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

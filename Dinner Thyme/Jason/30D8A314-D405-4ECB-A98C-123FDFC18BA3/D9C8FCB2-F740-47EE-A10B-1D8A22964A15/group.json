@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "D9C8FCB2-F740-47EE-A10B-1D8A22964A15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 519,
+    "x": 594,
+    "y": 1085
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "565F9E50-8D9F-44A0-AA44-2642972D7DF0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4BDAD8E1-D555-4750-84BD-D3B85CAE0222"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2DA0A1E-6E46-40A6-A6E6-0A064DC8CA9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E6223BD7-960D-44F9-BB43-E2F197F3DF8A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "55D21F72-BCE4-496E-A17A-D30E7829D4DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "775BA212-0146-4E1B-B8C4-F5234816E8A3"
+    }
+  ],
+  "name": "Payment Methods",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

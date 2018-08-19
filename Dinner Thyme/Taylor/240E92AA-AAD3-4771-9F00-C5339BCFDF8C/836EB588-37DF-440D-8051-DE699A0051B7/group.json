@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "836EB588-37DF-440D-8051-DE699A0051B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 182,
+    "width": 307,
+    "x": 37,
+    "y": 1139
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "56CC5FC6-DBCF-41F9-B86A-C93328B73AF5"
+    },
+    {
+      "class": "group",
+      "id": "C8892FAB-DBE6-4059-A318-E948BF898096"
+    },
+    {
+      "class": "text",
+      "id": "CB75275F-04AB-4021-9F55-7FCF00FFE5CD"
+    },
+    {
+      "class": "text",
+      "id": "0667BB35-DAE5-40C7-BF0A-A2BEB7037B6B"
+    },
+    {
+      "class": "group",
+      "id": "1318EF49-E5E8-4065-BA1D-581023662291"
+    }
+  ],
+  "name": "Dish Summary",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

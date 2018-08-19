@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "5EDC7C5A-9B88-49F6-A929-0A71634904BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9DD55B43-C325-45F4-812B-8C8BC1B78F1D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D104A1A-6546-4AD8-A53D-A14DE558AB19",
+    "height": 10,
+    "width": 42,
+    "x": 168,
+    "y": 34
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C881810A-B0A1-44C3-94A9-BCD79F9FCB95"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA1ED3DA-D10F-4913-9990-63A6D0850ECF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB2459A3-FA49-42ED-AB0F-AECD6892A333"
+    }
+  ],
+  "name": "Detail Circles",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89E6D5AF-C12F-4C63-835F-FFA108BD1630",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

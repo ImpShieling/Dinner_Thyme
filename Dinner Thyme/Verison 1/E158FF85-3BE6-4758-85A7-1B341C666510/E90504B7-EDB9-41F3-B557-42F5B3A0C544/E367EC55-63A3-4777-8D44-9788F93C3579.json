@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "E367EC55-63A3-4777-8D44-9788F93C3579",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "569C47C2-E373-4338-9697-3E14872551BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "251369F7-A94D-41CA-95E1-660F74438433",
+    "height": 691,
+    "width": 1043,
+    "x": -19,
+    "y": -211
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/ac29cb147084cd58888897db894f46245a32a30f.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "kelly-sikkema-212376-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8B8997E-7839-4CAA-AAFD-270D298F3D76",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "EC583955-2819-4896-8D5B-024021D053A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2EDAEAE5-4E65-483D-B1A7-D69B5ACCB33F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84808DF2-59EC-4786-BA26-CD06172B9D30",
+    "height": 80,
+    "width": 1024,
+    "x": 208,
+    "y": 669
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Heading 1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "341C3494-AE5C-4149-8B18-5D0CE9180547",
+      "overrideName": "B65955AD-9E27-46B9-8B1C-96EC3E9F79D1_stringValue",
+      "value": "Welcome to Dinner Thyme"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 2,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C4DAF7EF-6BAD-45B0-91DA-283EC61E390A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "098F795D-8132-4D6E-94FE-11BBEA4BB181",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7B2C2C9E-5C52-4644-B6B1-1368D6AAE729",
+  "verticalSpacing": 0
+}

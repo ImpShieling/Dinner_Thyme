@@ -1,0 +1,112 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "70CBAF1E-FF3D-45CB-868F-FD60BEC9BC17",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3650,
+  "do_objectID": "4A4068FE-3444-4238-943A-45C3C3671553",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1440701-A05B-4002-B9B4-3B8CF7BD35DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0046EB3E-BA0C-40BB-9F71-F55F72CD07FB",
+    "height": 728,
+    "width": 375,
+    "x": -1222,
+    "y": 662
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "E63C82E1-6CFF-4A61-90DA-7032917B86C7",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 16
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "393F62DF-22AB-4125-9446-A7FE9459A65C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "965B6A65-933C-4659-9A94-48D6F3A5609B"
+    },
+    {
+      "class": "group",
+      "id": "CFB45451-84E1-4F64-A54C-DBF40D01D986"
+    },
+    {
+      "class": "group",
+      "id": "D6B2FB8F-DE1B-427A-BE30-22232064FDB7"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "do_objectID": "7FC2A0DA-FBD0-4152-8BE1-9B0332FED14A",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 768
+  },
+  "name": "Homepage Info Group - Dark Back - Moblie",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B93FC9CA-A4E5-4472-9E14-ACBE93654DD0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "381134FC-2E03-4B3C-AF23-C44996C95B58",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F84FAE1F-726E-4A9C-BD12-6C2A9475BE6E",
+    "guides": [
+    ]
+  }
+}

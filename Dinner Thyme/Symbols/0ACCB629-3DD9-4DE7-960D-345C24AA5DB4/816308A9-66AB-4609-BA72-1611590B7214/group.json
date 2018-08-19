@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "816308A9-66AB-4609-BA72-1611590B7214",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 188,
+    "width": 1440,
+    "x": 0,
+    "y": -17
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B2E789C6-DEBB-4AAB-801E-176D3C35A2C3"
+    },
+    {
+      "class": "text",
+      "id": "FC6D40C4-F812-44EB-BD52-C6421E1DA267"
+    },
+    {
+      "class": "text",
+      "id": "F2B621A3-F798-4D2A-9167-62F2FEF4F43F"
+    },
+    {
+      "class": "text",
+      "id": "2DCBB9F0-9C95-4141-9CC0-482F74C53014"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "662CB5BA-110F-4A19-98EE-383F2D95356A"
+    }
+  ],
+  "name": "Header - Desktop HD",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

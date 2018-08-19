@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "AEFDDA88-87D1-459C-BD20-CC9CA139C82A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4042FD6E-E752-4882-8CC8-7DB7BC7FD5FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4B8DDC85-02EC-421B-8CB7-14C1FBE7EAF1",
+    "height": 104,
+    "width": 747,
+    "x": 346,
+    "y": 699
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/9eeff6152504eb2f0fab9849c0ad6279c9c6dec2.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "marketplace",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B1EC138-92BF-4955-879A-749A1D433F99",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "FFFEBA9C-5330-464E-9EC9-CA68CEE4A527",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D766FC6-714C-4546-B6BF-EAD2467DCF94",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9AD33EF9-2FFC-4127-A8D0-4A7F21BE433A",
+    "height": 619,
+    "width": 1024,
+    "x": 208,
+    "y": 800
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "How it Works (Desktop) Info Group (Image on Left) Colored Background ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "501580E1-CF51-4D5C-A731-BAAC9D3103E6",
+      "overrideName": "801F4FE4-B002-4F65-871B-C8E98AAEF9F9_stringValue",
+      "value": "ChefCuts are meals made of carefully chosen ingredients that are flash frozen to preserve taste, freshness, and nutritional content. ChefCuts come in convenient freezer safe zip lock bags, ready for you to thaw and cook at your own convenience. \n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C98C50C-44CE-44F0-B54F-0385E8382986",
+      "overrideName": "8D65E3CF-451C-4D5D-BFCF-29979B2A23D4_stringValue",
+      "value": "Choose Your Favorite ChefCuts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5607A57B-DC50-4DA6-B510-4F5AFAC7DD02",
+      "overrideName": "8BEE277F-F567-46D3-95C7-7D48B359C6E5_stringValue",
+      "value": "See Menu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F7F0282-26F1-4ACC-BCD9-441A9CFAAABA",
+      "overrideName": "7BB4BC7D-0642-4A55-8954-9E45F306CEB5_symbolID",
+      "value": "1DF53831-D8F5-4EF5-A285-E3EBEE811A56"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31CE1097-4525-47C4-A066-0B262C4CEDF8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "40403374-F0E7-4E3B-8758-6CB7F6319CB7",
+  "verticalSpacing": 0
+}
