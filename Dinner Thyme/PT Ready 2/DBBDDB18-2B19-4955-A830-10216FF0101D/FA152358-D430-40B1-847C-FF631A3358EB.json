@@ -20,26 +20,24 @@
               "size": 24
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 24,
+        "length": 31,
         "location": 0
       }
     ],
-    "string": "$80 Minimum For Checkout"
+    "string": "$80 is our minimum for checkout"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "6768EDBA-071C-4404-9D5E-7F42891702C5",
+  "do_objectID": "FA152358-D430-40B1-847C-FF631A3358EB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2414035F-EFAB-4A71-95C3-B7BE218C1495",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "25D037E6-B0DD-49EB-B041-0017C71B82CE",
-    "height": 46,
-    "width": 377,
-    "x": 762,
-    "y": 142
+    "height": 28,
+    "width": 353,
+    "x": 768,
+    "y": 149
   },
-  "glyphBounds": "{{13, 3}, {351, 23}}",
+  "glyphBounds": "{{0, 3}, {352, 23}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,21 +61,19 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "$80 Minimum For Chec",
+  "name": "$80 is our minimum f",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9167CA86-34EB-4D78-AA51-435D0C75F259",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F45E6D56-ED25-4216-9363-41F141549D88",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -94,16 +89,15 @@
             "size": 24
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }
