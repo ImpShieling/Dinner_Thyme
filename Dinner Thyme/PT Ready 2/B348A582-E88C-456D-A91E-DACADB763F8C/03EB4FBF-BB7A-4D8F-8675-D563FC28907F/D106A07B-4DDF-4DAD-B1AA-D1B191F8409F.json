@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Light",
+              "name": "HelveticaNeue",
               "size": 16
             }
           },
@@ -28,19 +28,19 @@
           "textStyleVerticalAlignmentKey": 0,
           "underlineStyle": 1
         },
-        "length": 24,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Show More Filter Options"
+    "string": "Clear Filter Settings"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "71430C62-F5D5-471E-9C7B-1C713845B32F",
+  "do_objectID": "D106A07B-4DDF-4DAD-B1AA-D1B191F8409F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2335A9A2-5F13-4944-A5C1-4D5CB041EBDB",
+    "do_objectID": "B4C46C14-C5F6-4E79-81F8-9A50F9C7A547",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EF092BAB-1011-4837-8CEC-47DCADB5120D",
+    "do_objectID": "498B3AC0-9CB9-4DAF-B2C0-010D0C99FCE2",
     "height": 35,
     "width": 200,
-    "x": 0,
+    "x": 137,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {174, 16}}",
+  "glyphBounds": "{{0, 3}, {140, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -73,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F65E30F0-2262-4293-85E1-61DEE4BB761D",
+    "do_objectID": "CCC35C0A-CF9D-4E9E-B7B8-64C7C103DC0F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B584B5ED-6E16-47E5-9CA9-67F53502E594",
+      "do_objectID": "D7BC11FF-C0CA-4CA7-AE85-3350DB364D1E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Light",
+            "name": "HelveticaNeue",
             "size": 16
           }
         },
