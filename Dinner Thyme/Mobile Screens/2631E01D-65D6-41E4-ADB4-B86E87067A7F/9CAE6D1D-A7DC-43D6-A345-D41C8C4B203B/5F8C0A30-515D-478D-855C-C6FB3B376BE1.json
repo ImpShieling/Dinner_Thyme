@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5F8C0A30-515D-478D-855C-C6FB3B376BE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAC52874-8157-476A-ADC4-2C58D7DF4BA4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50BD5CB2-0E83-450B-B08C-E3DD9DA3F43E",
+    "height": 55.78295900475913,
+    "width": 125.8877689747316,
+    "x": 126.6763395996438,
+    "y": 60.32708524672299
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "Photo Placeholder",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.49121386875,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7BEAE2C0-3FAF-4B12-A741-E8E6715DCA3E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.9121386875,
+      "type": 0
+    },
+    "do_objectID": "D5562FC6-6590-440A-8BA2-85A87DA761FD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "46AEA720-A772-4DF3-A83E-3A8E3D7C000D",
+  "verticalSpacing": 0
+}

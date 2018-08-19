@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B89A767C-BF45-48D9-83D0-C25A04D7FAFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DE8DCFA-40A6-454B-BBA2-5DC4FF15A6D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7A73E5D-8A8B-476A-BA82-713AE4991BCB",
+    "height": 475,
+    "width": 289,
+    "x": 43,
+    "y": 3594
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Menu Item - Mobile Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "759C0DA6-7BB6-43CD-B139-6CFBB56ED605_stringValue",
+      "value": "Braised Beef Ravioli and Pan Toast"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2C0F457E-DA24-4231-A760-3447421C8272/24638B6D-0CD2-46E8-B359-BC0726CAFC8D_stringValue",
+      "value": "15min"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BBD3EAEC-8730-4A5E-A4CC-EBFB713EB818/F76929B2-0F71-4648-8D65-1A6ADC5EA7A7_stringValue",
+      "value": "$12"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7780D90A-DA26-4E17-8221-8C6B144437C0_symbolID",
+      "value": "E12FC6EF-D140-436C-9E82-B5D7293FFDCD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BBBD0A09-B41B-4F57-BC95-33F15EF4C110",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F427E83-26C3-4BEF-9FA1-D7211BE7AA70",
+  "verticalSpacing": 0
+}

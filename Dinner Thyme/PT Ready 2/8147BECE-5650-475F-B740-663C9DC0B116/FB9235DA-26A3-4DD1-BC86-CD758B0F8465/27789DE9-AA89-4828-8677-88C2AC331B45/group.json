@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "27789DE9-AA89-4828-8677-88C2AC331B45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A5B9395-331E-4832-810E-158C94F8892D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B64CA15-076F-4685-8AEA-AA01DFA9FBE5",
+    "height": 30,
+    "width": 199,
+    "x": 329,
+    "y": 129
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "688C7B8F-2640-492A-B75D-AADE2E394927"
+    },
+    {
+      "class": "text",
+      "id": "FA518859-7180-46D5-9F99-113A7A0DD18C"
+    }
+  ],
+  "name": "Taxes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A18D64E-E992-45D7-81CC-EB05116EF2F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

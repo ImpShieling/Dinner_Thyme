@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1F51363D-3887-4C9C-A85B-26C58E1AC09A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46A1F7FC-B760-4C2E-85E5-3DD20B031746",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "547C9E69-3451-4A0C-B54C-606C204885E3",
+    "height": 54,
+    "width": 144,
+    "x": 1,
+    "y": 35
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filter Button Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "21E56030-8214-4EE3-ACF2-BE41C456DC0B_stringValue",
+      "value": "Noodles & Pasta"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "445234E8-CCEC-400E-AB63-5A75E8CEF8BA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ABC87FC2-5A54-4553-B1AD-48A8250C7653",
+  "verticalSpacing": 0
+}

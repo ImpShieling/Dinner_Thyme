@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "39F17326-A0D5-4BD4-8F35-41DDB7FC5216",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "741757C7-5ADD-45FB-B599-BF54A2DF78FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "73A63725-E9C3-454E-B6FC-6CBABCB631C5",
+    "height": 59,
+    "width": 252,
+    "x": 62,
+    "y": 332
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Shop_Menu_Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3F0E7BC-9298-4CDF-9A69-FE4B20D88A2F",
+      "overrideName": "6CF6DA5F-EB8C-4669-9BAA-C21D7D6D91AA_stringValue",
+      "value": "Shop Menu"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.81,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "27B9861D-D3CD-47B7-9225-7287DA300FAA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.1,
+      "type": 0
+    },
+    "do_objectID": "714BD2BE-5627-40F5-A567-C81DC9846B52",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7246F197-53E4-4E66-9DB8-BBCA656E63EB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "48C94E47-3702-4AA2-8655-688A95D39052",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4ECE8B86-CB0C-438A-80C6-299859A96C15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9133086-DE23-45D5-99A5-19CE2A975387",
+    "height": 142,
+    "width": 289,
+    "x": 39,
+    "y": 174
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0315A628-1115-435D-B00A-B464D8AACE42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECD466A8-763C-4828-9214-2B9D84AC3804"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3663684C-22B3-481B-977B-ABEB284A32B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04DC4019-735A-43D4-91D3-23E9B355B812"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D8A7A8B-06B5-4B6E-AEDE-4AD47FD493AE"
+    }
+  ],
+  "name": "Protein",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E026C9F8-A4B7-403C-984F-B0A438A4C544",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
