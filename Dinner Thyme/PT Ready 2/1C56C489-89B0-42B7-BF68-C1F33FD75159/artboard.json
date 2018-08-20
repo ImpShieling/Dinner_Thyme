@@ -21,13 +21,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+<<<<<<< HEAD
     "height": 112,
     "width": 469,
     "x": -13304,
     "y": -10974
+=======
+    "height": 108,
+    "width": 455,
+    "x": -14588,
+    "y": -6712
+>>>>>>> ada5fd77dbf22850d9a0ed99ee9d2c3224e5bb32
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
