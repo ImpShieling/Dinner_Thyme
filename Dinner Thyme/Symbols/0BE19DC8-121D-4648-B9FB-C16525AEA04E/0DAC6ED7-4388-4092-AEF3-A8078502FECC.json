@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "0DAC6ED7-4388-4092-AEF3-A8078502FECC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D73D5C56-15DC-470F-8E02-B3D5EA69BB8C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81DB2E1B-6FDD-4B4E-B709-84D675FAB95C",
+    "height": 7,
+    "width": 98,
+    "x": 726,
+    "y": 91
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "Nav Bar/About Us - Selected",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38B20BC6-573E-4426-B842-452D2A74893E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BF353E29-A5FD-4CAD-80B2-37CFFE43E1E6",
+  "verticalSpacing": 0
+}

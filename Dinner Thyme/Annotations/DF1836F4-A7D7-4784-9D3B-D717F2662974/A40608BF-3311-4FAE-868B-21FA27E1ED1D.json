@@ -33,8 +33,14 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "C3F0E7BC-9298-4CDF-9A69-FE4B20D88A2F",
-      "overrideName": "6CF6DA5F-EB8C-4669-9BAA-C21D7D6D91AA_stringValue",
+      "do_objectID": "5E958DDE-4F90-4D1E-92B7-AD3AD9F823E2",
+      "overrideName": "23D0DEB9-02E6-4457-A89E-F938347215D4_stringValue",
+      "value": "Shop Menu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE02296D-788A-49ED-8C4A-1204346B16E4",
+      "overrideName": "504C09E9-2D6B-4D55-8086-D84D390C5BBE_stringValue",
       "value": "Shop Menu"
     }
   ],
@@ -60,6 +66,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7246F197-53E4-4E66-9DB8-BBCA656E63EB",
+  "symbolID": "318E95E3-38E5-4EB6-9938-E06661B14703",
   "verticalSpacing": 0
 }
