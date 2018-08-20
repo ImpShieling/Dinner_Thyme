@@ -1,0 +1,121 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "7267CF92-FB23-45A5-80C9-115510C52F2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -474,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "DBBDDB18-2B19-4955-A830-10216FF0101D"
+    },
+    {
+      "class": "artboard",
+      "id": "61F09B0E-9ED4-4855-BDD5-E9B3FF97DD1C"
+    },
+    {
+      "class": "artboard",
+      "id": "68A5BAF3-3304-4897-B5C9-1E3DF913FE7B"
+    },
+    {
+      "class": "artboard",
+      "id": "B348A582-E88C-456D-A91E-DACADB763F8C"
+    },
+    {
+      "class": "artboard",
+      "id": "3EEA8A3A-9873-41DA-B28F-D2E4B459D013"
+    },
+    {
+      "class": "artboard",
+      "id": "51DF5F7D-5B71-47D7-942C-E6EAFD299EEB"
+    },
+    {
+      "class": "artboard",
+      "id": "F6824227-38E9-4DC0-BF19-B499CBFA13E7"
+    },
+    {
+      "class": "artboard",
+      "id": "8147BECE-5650-475F-B740-663C9DC0B116"
+    },
+    {
+      "class": "artboard",
+      "id": "4120239B-3476-4C2B-BA19-30DC3B9351B8"
+    },
+    {
+      "class": "artboard",
+      "id": "9307DD87-D53E-49A3-B9EF-CF2EB3968C8A"
+    },
+    {
+      "class": "artboard",
+      "id": "7EE4715D-D262-4DA3-BDE0-4538348E26B3"
+    },
+    {
+      "class": "artboard",
+      "id": "4F283153-8DFC-4687-990A-18EE3CFE5D81"
+    },
+    {
+      "class": "artboard",
+      "id": "24721638-1CCB-431F-8865-51FE0A71419B"
+    },
+    {
+      "class": "artboard",
+      "id": "43B1346A-3FBE-421A-8F9A-D4A96555C3F2"
+    },
+    {
+      "class": "artboard",
+      "id": "8D81D634-CE05-4E9A-BEB8-917DA27DA413"
+    },
+    {
+      "class": "artboard",
+      "id": "1C56C489-89B0-42B7-BF68-C1F33FD75159"
+    }
+  ],
+  "name": "PT Ready 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -392,
+    "guides": [
+    ]
+  }
+}

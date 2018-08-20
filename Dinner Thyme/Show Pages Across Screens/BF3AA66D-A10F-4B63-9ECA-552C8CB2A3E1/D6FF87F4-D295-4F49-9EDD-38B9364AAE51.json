@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D6FF87F4-D295-4F49-9EDD-38B9364AAE51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A4A6467-E6D8-42DC-AA6B-B35AC3EAD763",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A668476D-4D71-4D2B-B6ED-39659DA1FF38",
+    "height": 680,
+    "width": 375,
+    "x": 0,
+    "y": 1176
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Homepage Info Group (Image on Top) Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88C30732-BFBD-41B7-95D6-0B4FB26BE5AC",
+      "overrideName": "EB31202D-9BD8-4AEA-8EF3-C5CB4482ADDD_symbolID",
+      "value": "5422B175-E2CA-470E-B584-8D27EADF1119"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F82F20D0-A6EC-490D-AD99-F1D9C8CDDBC1",
+      "overrideName": "CCE1B33F-0060-4084-89C3-4A0C1DDAF91B_stringValue",
+      "value": "Receive"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41AD0293-EA17-4A77-9E0E-C6D0CEC23A61",
+      "overrideName": "431D68F0-387B-4E03-8BE3-5AEA3BBEB128_stringValue",
+      "value": "Dinner Thyme's meals are shipped out every Tuesday. You can order as late as Monday night and receive your meal by Wednesday or Thursday. Meals are shipped with dry ice in an insulated box right to your doorstep."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6320BB5A-EDE6-4CF4-898C-C01FFCAEEC73",
+      "overrideName": "DD561998-BB10-4374-8C76-B8A4854B816B/63EECFB5-7331-4234-9467-7EAAFE5FEEB2_stringValue",
+      "value": "2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49C06BB8-E189-4EB0-B640-43747613D444",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D659183C-030F-4A7C-8DA5-D0C80B2D3FF9",
+  "verticalSpacing": 0
+}

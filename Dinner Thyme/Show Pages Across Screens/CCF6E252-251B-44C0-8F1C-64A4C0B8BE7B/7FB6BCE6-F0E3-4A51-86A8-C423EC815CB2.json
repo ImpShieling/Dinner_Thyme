@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "7FB6BCE6-F0E3-4A51-86A8-C423EC815CB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "469D063F-0DC3-4BF4-97AB-CF38812B3B53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "769AE508-7BF1-49F8-818F-89E9D675007C",
+    "height": 179,
+    "width": 768,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header - iPad",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C91F227B-CCA1-4A47-976C-D047D124A71E",
+      "overrideName": "52191B6D-B1E6-4BC3-AC0A-4900B90F50E9_symbolID",
+      "value": "D7D8A578-EC28-42B2-AFCB-F599B232F861"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18281A28-BD5B-4E5C-9A15-F11817A4D777",
+      "overrideName": "F3422558-92C1-4C0D-805D-AD60EB4F9470_symbolID",
+      "value": "55F4BDF4-396C-47C8-BC09-2523DC2097CB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "091D96F7-9FFC-4F7A-A2E8-8E119134CB79",
+      "overrideName": "E4AF2581-E00E-4425-A5A0-662824D32A0C_symbolID",
+      "value": "7E850195-B30A-42BA-A7AB-97E8A5A6424C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A6B0981-B855-44F3-9BFF-23265DF0636B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A5E73D9F-956C-48AB-87E1-9777CB989156",
+  "verticalSpacing": 0
+}

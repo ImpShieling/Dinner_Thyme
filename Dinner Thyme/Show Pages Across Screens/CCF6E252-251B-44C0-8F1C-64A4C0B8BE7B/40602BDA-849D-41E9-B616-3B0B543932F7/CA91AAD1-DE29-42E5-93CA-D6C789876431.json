@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "CA91AAD1-DE29-42E5-93CA-D6C789876431",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4F29F84-766E-44C0-A608-6D58E1BF5AA5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0E88B08A-40EF-4EE1-B476-6D693F6B074D",
+    "height": 542,
+    "width": 975,
+    "x": -79,
+    "y": -152
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/61ef4b1e2d87ab1d4a8e01a464d250471d40de16.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "hero4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2BC45162-4F74-485D-B1F0-05D9250D1937",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

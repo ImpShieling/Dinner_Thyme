@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "2CEABDC6-6A92-4B37-9402-BF9F7FAD1CB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3219967E-944E-4732-8614-4ABC13652F03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "718F1249-C08E-40F8-B4CD-6FC21A32BA3E",
+    "height": 110,
+    "width": 454,
+    "x": 426,
+    "y": 639
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8CA76A04-0839-4F84-9C7A-B8A09E804592"
+    },
+    {
+      "class": "text",
+      "id": "9124B4EC-A1E6-407D-B31E-F289E19E2D65"
+    }
+  ],
+  "name": "Portion Cost",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42BEDB9F-2944-497C-A02A-288CC14BC7A0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "32E8D26E-C5EC-475B-B2A1-3B38933EF55D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5DC7C1EB-7AAA-4245-8783-537288C60E88",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "010AA8EB-5928-4546-AF74-F82B16D0156E",
+    "height": 680,
+    "width": 375,
+    "x": 0,
+    "y": 2408
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Homepage Info Group (Image on Top) Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C380E094-7E2E-4802-BFED-801A7F8DC964",
+      "overrideName": "CCE1B33F-0060-4084-89C3-4A0C1DDAF91B_stringValue",
+      "value": "Cook"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C4E1E95C-1954-4969-969D-ED574104B984",
+      "overrideName": "EB31202D-9BD8-4AEA-8EF3-C5CB4482ADDD_symbolID",
+      "value": "B21C2317-4AAA-4223-8F3D-847B61FF55EE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "91E7AA25-9A4B-4B40-AE9A-10CAF7BD15E1",
+      "overrideName": "431D68F0-387B-4E03-8BE3-5AEA3BBEB128_stringValue",
+      "value": "Easily create simple and delicious home-cooked meals in 20 minutes or less with Dinner Thyme's pre-cut and portioned ingredients."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F033B49D-8A7F-4244-8F58-181CFC60E55C",
+      "overrideName": "DD561998-BB10-4374-8C76-B8A4854B816B/63EECFB5-7331-4234-9467-7EAAFE5FEEB2_stringValue",
+      "value": "4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CD39268-C74B-43CF-A81B-75DEC1C47E75",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D659183C-030F-4A7C-8DA5-D0C80B2D3FF9",
+  "verticalSpacing": 0
+}

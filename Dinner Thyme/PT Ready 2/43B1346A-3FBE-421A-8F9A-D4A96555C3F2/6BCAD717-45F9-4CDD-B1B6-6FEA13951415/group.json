@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "6BCAD717-45F9-4CDD-B1B6-6FEA13951415",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53AB644E-165A-4448-BB51-6C598E267AAD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "657F78C1-6F7A-43D8-BC3A-E3F168C134FE",
+    "height": 331,
+    "width": 394,
+    "x": 838,
+    "y": 1572
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "86598329-BD83-413C-89DE-4B360606B3B5"
+    },
+    {
+      "class": "bitmap",
+      "id": "68ACD03B-E15E-46A6-9987-ED5EEF465BCE"
+    }
+  ],
+  "name": "Frozen Img",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F617F318-B558-4C10-8E09-D1231F0DD375",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

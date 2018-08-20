@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "24ED2655-8183-4A5F-8BEF-809B5ABF384E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "572F6A1E-C42F-49CB-8EC3-7595C220F34C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A68F3704-7810-479C-9218-D167563D45FD",
+    "height": 205,
+    "width": 612,
+    "x": 70,
+    "y": 144
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cart Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BEBE1E63-2534-492B-A9A4-EA9909375A58",
+      "overrideName": "35412BB3-B8ED-4E49-B802-E26A12CCB18E_stringValue",
+      "value": "Apple Pecan Chicken with a Brandy Sauce"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FFA4CFE7-A762-4FB7-8BDD-CC903541DA2D",
+      "overrideName": "0BEABA3C-AB9B-4795-96E1-09B4D1B09BDE_symbolID",
+      "value": "452C7F31-6393-4BE2-9E5E-32DA481A6778"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76D91C75-C49E-44A0-8438-F15CE6D9AD6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9AA2EBA0-2621-41E0-8EB7-D7422617D18B",
+  "verticalSpacing": 0
+}

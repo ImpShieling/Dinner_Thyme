@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D5F13214-D0C6-4FE0-9BC4-689A9696DDCC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE30D4C0-EC3A-4A74-8762-41DC878E0BA0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03B60297-91B3-4B02-9BCA-745EA9F66FF4",
+    "height": 304,
+    "width": 768,
+    "x": 0,
+    "y": 2624
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Homepage Quotation",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "86611DCE-9376-4BAE-8FBD-3B91E754ABEE",
+      "overrideName": "7973C81E-33BE-4FD4-9CE4-86D16A786397_stringValue",
+      "value": "Wanted to drop you a quick note to let you know we are loving the new Dinner Thyme. This works so much better for us."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B65C5D95-A167-43BD-AA47-BB4481A82F36",
+      "overrideName": "B5828970-B125-4EA2-811F-F7E2CD6894DA_stringValue",
+      "value": "Sara F. - Horsham PA."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5DB30751-EC6F-4469-B403-D240B8E1C6DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D2BC1AD9-DAB2-424A-B63E-5DE075664D39",
+  "verticalSpacing": 0
+}
