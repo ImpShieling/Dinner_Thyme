@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 431,
+  "changeIdentifier": 735,
   "do_objectID": "069831B5-7005-46A9-A002-ACC5B951ED7E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -77,6 +77,14 @@
     {
       "class": "shapeGroup",
       "id": "0E7B48EC-928E-4474-8EEA-6353B4433B75"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52C56186-0E16-48E8-9E08-283ABD21FCA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1279EEA-81BE-4988-9440-629A59D82869"
     }
   ],
   "name": "Footer - Desktop - New Copy 2",

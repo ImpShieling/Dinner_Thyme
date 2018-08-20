@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "9215AA27-262F-4575-88CC-F951EC0B8CCA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB566847-5C9D-4D14-BE7F-37FBD749FD1B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A935710-6D0C-4232-B5E4-6CA17A3785B5",
+    "height": 467,
+    "width": 303,
+    "x": 911,
+    "y": 1231
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Meal Card/Meal Card Copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4101A746-48CC-4445-9A14-075C6D887994",
+      "overrideName": "F0C2A10A-2489-4CD6-B0BB-97AFDB718475_symbolID",
+      "value": "8915A5E4-90F1-4010-8565-A29904C833B3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E79EB1C4-4C9E-4817-A39E-B2A851716A54",
+      "overrideName": "BB5E0BE5-DF06-48F4-898E-BFDFA0F01BF7_symbolID",
+      "value": "CFAC2A1D-4605-4BA4-A02D-CB17C9043A6E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B64390C4-4428-4840-BD26-CE1C75A83C28",
+      "overrideName": "44713A32-46D8-470F-922D-ADE41C530E37_stringValue",
+      "value": "Chicken Primavera Pizza with Chimichurri Sauce"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF00D881-6F7D-47D4-91AB-027C8262D307",
+      "overrideName": "5C6AE6D5-69B2-46C9-9C18-84F7FCFA25F2_stringValue",
+      "value": "12"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B90C1144-34A5-4F53-9304-1D8D2155D587",
+      "overrideName": "3008E552-3531-449A-B736-7773E4768324_stringValue",
+      "value": "14"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC0625BB-A54F-4336-BEA6-87672DE0FE90",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "841DAA48-7FB6-4132-A6A1-9E1ECCA1E18B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CA21EE45-4F65-4B06-B189-C5BEC9D11281",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "990A05A1-8792-4923-9389-51ADA1E0891A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "95A3D605-BAA1-4FC4-ADAE-CBA6956C9EEA",
+    "height": 100,
+    "width": 614,
+    "x": 618,
+    "y": 1021
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E39E8D8D-427C-4E86-B3B4-42EE09B3FBF9"
+    },
+    {
+      "class": "text",
+      "id": "38B9AAD9-1A60-4A90-B9AB-F5582D20C7A6"
+    }
+  ],
+  "name": "We Provide",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "20B4B836-2A85-4A58-8D62-E9A112735DAD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

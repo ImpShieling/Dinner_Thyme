@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2777,
+  "changeIdentifier": 2791,
   "do_objectID": "C393C696-B795-4D1F-B884-56CE6593AAD2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -63,20 +63,8 @@
       "id": "D9ADAEA3-A707-40C2-A28E-DC57ED30AA12"
     },
     {
-      "class": "text",
-      "id": "187C753F-D6C9-4378-8171-364319A370E3"
-    },
-    {
-      "class": "text",
-      "id": "11FEC248-B63C-4990-99A8-82667530CDE3"
-    },
-    {
       "class": "group",
       "id": "2E3E214A-D59F-4175-B945-EF4CD3ECFDBB"
-    },
-    {
-      "class": "text",
-      "id": "2017CDB0-8EC3-47FE-A4CD-87BD2DC00211"
     },
     {
       "class": "text",
@@ -84,15 +72,15 @@
     },
     {
       "class": "group",
-      "id": "AC3C3622-860B-42B3-92A5-B45FAA56B954"
+      "id": "8A8DD32F-9813-4A60-9269-9A95C96A313A"
     },
     {
       "class": "group",
-      "id": "972312D5-E034-4ED0-A657-3EE4AC1290FC"
+      "id": "1DA163DD-2F82-4F05-931F-6D84B0D8EA2D"
     },
     {
       "class": "group",
-      "id": "9970A5B8-6703-4CAE-B914-6D45B6ED8032"
+      "id": "FDB590A0-3729-4BA8-8599-5EDC5C465C02"
     }
   ],
   "name": "Eco Ad",

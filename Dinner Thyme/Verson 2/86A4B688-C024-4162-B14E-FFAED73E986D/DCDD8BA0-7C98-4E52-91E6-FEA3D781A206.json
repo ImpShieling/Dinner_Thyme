@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DCDD8BA0-7C98-4E52-91E6-FEA3D781A206",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0D8A8CE-0119-4CFF-8B0C-C616A049370E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E32B821C-F61D-4943-B6B0-CF814D52411B",
+    "height": 444,
+    "width": 1024,
+    "x": 208,
+    "y": 148
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Hero Image",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80C30450-6782-4045-965A-17A4DC261CDF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B80A451-F518-4C64-8CE9-BCE1F282885D",
+  "verticalSpacing": 0
+}

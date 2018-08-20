@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "3F41F770-4337-415D-8D7B-889C41CF39F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C6B50B1-626F-45A5-B536-292026C07053",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "609DFF45-439E-46D9-AECE-0E88EE7D3A2D",
+    "height": 205,
+    "width": 612,
+    "x": 0,
+    "y": 542
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cart Item Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B8E97492-2E6F-4010-99B9-D870CE464B92",
+      "overrideName": "202359D0-F603-4B85-BC7F-567F72E12BBE_symbolID",
+      "value": "8915A5E4-90F1-4010-8565-A29904C833B3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC965784-1B06-4D07-B0AC-84BEF598DCA4",
+      "overrideName": "CA933202-ED53-4815-B6B3-902A382FD325_stringValue",
+      "value": "$24.00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26BF7D41-767A-4D1E-A27D-458573E332D1",
+      "overrideName": "23B042E5-F9D8-4DFC-9BC8-30D388E1ECB7_stringValue",
+      "value": "Chicken Primavera Pizza with Chimichurri Sauce"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B23AFED-1C24-45F0-973E-FD69A9381A77",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A782BCD6-123D-404E-9F13-D1353098CD77",
+  "verticalSpacing": 0
+}

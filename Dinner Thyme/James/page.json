@@ -19,6 +19,12 @@
     "x": 0,
     "y": 0
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 16
+  },
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,6 +75,10 @@
     {
       "class": "artboard",
       "id": "884B97F3-2CD6-4576-B1A1-4FDAA971A3A6"
+    },
+    {
+      "class": "artboard",
+      "id": "9CCB0123-7AB5-4E2D-9F75-84301AE5671F"
     }
   ],
   "name": "James",

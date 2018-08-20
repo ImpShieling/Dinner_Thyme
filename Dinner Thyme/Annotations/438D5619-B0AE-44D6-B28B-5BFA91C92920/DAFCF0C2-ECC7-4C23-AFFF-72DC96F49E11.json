@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DAFCF0C2-ECC7-4C23-AFFF-72DC96F49E11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CD82E58A-3DD5-473B-A945-83EF99A39D3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B78C911B-C496-4FE1-9E1B-88709FEAE113",
+    "height": 460,
+    "width": 1024,
+    "x": 208,
+    "y": 2458
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Desktop Info Group (Image on Left) Colored Background ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "391932D7-953E-461C-B642-E1572DD05933",
+      "overrideName": "8F43E943-070B-4F6F-A9E4-F35ED4C7AE93_stringValue",
+      "value": "Defrost your meals one of two ways. Defrost in the refrigerator overnight or run meals under warm water for 15 minutes."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B89B002-69AC-4C51-98FD-27C61F792313",
+      "overrideName": "8F0CFB00-71BF-45F4-BA76-A4850884C9AA_stringValue",
+      "value": "Step 3: Defrost"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "79E9506D-CFA8-4973-AE55-227DE2706A0B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "50CDFEA6-396C-4E28-82A3-DEDBCFFEAF6D",
+  "verticalSpacing": 0
+}

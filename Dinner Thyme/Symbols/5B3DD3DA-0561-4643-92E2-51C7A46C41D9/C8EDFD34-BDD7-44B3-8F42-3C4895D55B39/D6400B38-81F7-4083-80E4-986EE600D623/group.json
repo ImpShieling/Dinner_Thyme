@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "D6400B38-81F7-4083-80E4-986EE600D623",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "500DECBB-D737-40DE-B59F-084C4BAEB241",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1BF5D377-139C-4F55-9C25-AD2EF2B6C8E2",
+    "height": 81,
+    "width": 239,
+    "x": 33,
+    "y": 354
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D96AA8C1-AEC2-44BC-A29A-CDDFDC6F5870"
+    },
+    {
+      "class": "text",
+      "id": "F58FBAB7-C926-4168-A4A0-4D9E577EA78F"
+    },
+    {
+      "class": "text",
+      "id": "919BC073-4BB3-48B8-A125-189F25BE94DF"
+    },
+    {
+      "class": "text",
+      "id": "A0D29A38-9FBD-4077-961E-E9B734DAD423"
+    },
+    {
+      "class": "group",
+      "id": "C57773E4-92C1-4435-96A0-CE66D586FE09"
+    }
+  ],
+  "name": "Cook Time",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D435A920-4C01-44DA-8C90-5005402D1872",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.1,
+      "type": 0
+    },
+    "do_objectID": "8C2140F0-E387-40BB-92B5-7040C06FED3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

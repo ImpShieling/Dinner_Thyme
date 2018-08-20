@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "96DD6F7B-9670-4AD3-B45E-381A6FA2B181",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26FD2708-A264-4F7F-80BD-484BDAB81321",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7166DDC3-1A35-40A5-B90D-049EE70CE381",
+    "height": 764,
+    "width": 1024,
+    "x": 208,
+    "y": 3938
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Eco Ad",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E78B1DF7-0A28-47FD-BA72-7B3CFC651856",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C0EA507B-71A5-4B28-91FB-6B288952ADE5",
+  "verticalSpacing": 0
+}

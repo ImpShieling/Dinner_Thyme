@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "02242986-BB37-4343-B3AD-4607D1739DC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "651AA7A8-D935-480F-9096-3D8CDEBCA591",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C22E5BD1-CAB4-46CD-A9C8-4F345EC43036",
+    "height": 673,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B24BBE7F-8BF4-419A-BDDD-39E25CC2DFA9"
+    },
+    {
+      "class": "bitmap",
+      "id": "70F76121-81FD-4337-827A-0BF4BAF4591A"
+    },
+    {
+      "class": "bitmap",
+      "id": "E6992299-D6C1-4329-81B1-535F1AF82767"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FB87522F-50CF-407C-9AB9-977A92DD9597"
+    },
+    {
+      "class": "group",
+      "id": "954C38AF-D1C5-4772-8243-C1EB5D2FBA1F"
+    },
+    {
+      "class": "text",
+      "id": "C0168780-64AB-487C-AF38-153A024BB502"
+    },
+    {
+      "class": "text",
+      "id": "DCE6196B-5902-4650-A0CB-B2F170829434"
+    },
+    {
+      "class": "text",
+      "id": "DD4ECF04-5E7A-4167-A912-0789CD29DFA7"
+    },
+    {
+      "class": "text",
+      "id": "1D1BCE59-69EC-4C00-B614-5801B339B138"
+    }
+  ],
+  "name": "Frozen Ad",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D782C8B4-0C49-4DDF-9D84-B0BB5435EB9B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
