@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "C8934D6C-9869-4C4D-8E85-FEE4E1358809",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B211870-D328-4280-BFFC-E7096521DC91",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56E82E01-738C-41A0-A23F-BAE37BCF065D",
+    "height": 40,
+    "width": 128,
+    "x": 8,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E3593E17-7C17-4AF0-8501-FB295CD32F9E"
+    },
+    {
+      "class": "text",
+      "id": "C74BBDA3-78F8-40D5-8604-9520A4A82566"
+    }
+  ],
+  "name": "Filter Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "45BB1FAC-06C1-4777-A4D4-5E1490CD298C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

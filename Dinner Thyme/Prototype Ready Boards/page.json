@@ -1,7 +1,7 @@
 {
   "_class": "page",
-  "booleanOperation": 0,
-  "do_objectID": "FD75CAFD-9B75-4B36-8A55-74166CD7B280",
+  "booleanOperation": -1,
+  "do_objectID": "7267CF92-FB23-45A5-80C9-115510C52F2B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,21 +14,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 0,
+    "width": 0,
     "x": 0,
     "y": 0
-  },
-  "grid": {
-    "_class": "simpleGrid",
-    "gridSize": 8,
-    "isEnabled": true,
-    "thickGridTimes": 16
   },
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -474,
     "guides": [
     ]
   },
@@ -42,60 +36,64 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "A4AD15A3-FBE1-43B8-BD05-85899370A217"
+      "id": "DBBDDB18-2B19-4955-A830-10216FF0101D"
     },
     {
       "class": "artboard",
-      "id": "33B45042-84F6-4154-8D9F-B6D6296A7FA3"
+      "id": "68A5BAF3-3304-4897-B5C9-1E3DF913FE7B"
     },
     {
       "class": "artboard",
-      "id": "F50FA8F9-9A94-47DA-AF87-CAF22B2769F6"
+      "id": "B348A582-E88C-456D-A91E-DACADB763F8C"
     },
     {
       "class": "artboard",
-      "id": "7B1DA9A2-0E8C-4D57-94AD-418EA9FDF64B"
+      "id": "3EEA8A3A-9873-41DA-B28F-D2E4B459D013"
     },
     {
       "class": "artboard",
-      "id": "EAA905C5-4675-4D09-96DE-CB53E4A80CEF"
+      "id": "51DF5F7D-5B71-47D7-942C-E6EAFD299EEB"
     },
     {
       "class": "artboard",
-      "id": "D48346E9-D626-43CA-B0E0-076A02D5EFE5"
+      "id": "F6824227-38E9-4DC0-BF19-B499CBFA13E7"
     },
     {
       "class": "artboard",
-      "id": "7416CE2F-4D6F-4063-8734-AE62E4078DCF"
+      "id": "8147BECE-5650-475F-B740-663C9DC0B116"
     },
     {
       "class": "artboard",
-      "id": "11E5DCE8-124B-42BD-BA88-B6DB5F6BC556"
+      "id": "4120239B-3476-4C2B-BA19-30DC3B9351B8"
     },
     {
       "class": "artboard",
-      "id": "039A71CE-5B69-49F2-B78C-41EE6232FAA4"
+      "id": "9307DD87-D53E-49A3-B9EF-CF2EB3968C8A"
     },
     {
       "class": "artboard",
-      "id": "6140768A-96D2-4986-AFE9-DB5FE7F6E7FA"
+      "id": "7EE4715D-D262-4DA3-BDE0-4538348E26B3"
     },
     {
       "class": "artboard",
-      "id": "0D01E31C-BB7D-44F0-932C-5B16F9F94DD9"
+      "id": "4F283153-8DFC-4687-990A-18EE3CFE5D81"
     },
     {
       "class": "artboard",
-      "id": "CB76DC02-E875-4C3E-A41B-864858ACA8AA"
+      "id": "24721638-1CCB-431F-8865-51FE0A71419B"
     },
     {
       "class": "artboard",
-      "id": "FD3307ED-2E63-4A42-9B32-9AD0EBA96ADF"
+      "id": "8D81D634-CE05-4E9A-BEB8-917DA27DA413"
+    },
+    {
+      "class": "artboard",
+      "id": "1E75337F-14DE-415E-B11D-9B0E6963F038"
     }
   ],
   "name": "Prototype Ready Boards",
-  "nameIsFixed": false,
-  "resizingConstraint": 0,
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -104,11 +102,11 @@
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -392,
     "guides": [
     ]
   }

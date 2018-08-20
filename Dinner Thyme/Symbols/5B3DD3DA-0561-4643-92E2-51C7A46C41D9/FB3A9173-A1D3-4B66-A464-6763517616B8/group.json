@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "FB3A9173-A1D3-4B66-A464-6763517616B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B3258899-2C12-455D-A6D7-01B6E1AAB613",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A94B0B42-FCD4-440D-BCD4-751951CAE927",
+    "height": 391,
+    "width": 303,
+    "x": 1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3D6436D6-DE5E-466A-981E-7B6C252168D6"
+    },
+    {
+      "class": "group",
+      "id": "F296307A-586D-495B-862B-B2D35BF3F616"
+    },
+    {
+      "class": "group",
+      "id": "B19F57B5-AC07-4C4C-A71F-3EE241E8251C"
+    },
+    {
+      "class": "group",
+      "id": "DB8FF61D-79E4-4307-98D3-46AAC3AC71CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D6ED51AB-623E-4928-A3B5-763E16FCAF61"
+    },
+    {
+      "class": "group",
+      "id": "7D9A082F-94AD-4477-8268-A558F4795888"
+    }
+  ],
+  "name": "Meal Card Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7186EA4C-5DA5-4853-A5B5-2434C87A117A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.1,
+      "type": 0
+    },
+    "do_objectID": "D4636D5A-5AB2-4B3D-B7FC-6E5331A0B03D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

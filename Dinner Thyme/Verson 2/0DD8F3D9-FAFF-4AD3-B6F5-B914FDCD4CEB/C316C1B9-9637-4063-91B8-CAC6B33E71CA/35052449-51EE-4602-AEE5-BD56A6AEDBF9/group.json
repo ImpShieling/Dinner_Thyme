@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "35052449-51EE-4602-AEE5-BD56A6AEDBF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7BCB6DC8-E90A-4A10-98AD-F1FD8CE861B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3CAE5F4-A291-43E8-97E2-79C2876CBDD0",
+    "height": 30,
+    "width": 215,
+    "x": 312,
+    "y": 81
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "80254920-35F3-4981-90C7-EACBCC66D3B1"
+    },
+    {
+      "class": "text",
+      "id": "EDDAAD28-E8BC-404C-9AAF-B7A1F4D64C92"
+    }
+  ],
+  "name": "Shiping",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F05A197-8036-459C-802C-40293AF6B608",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
