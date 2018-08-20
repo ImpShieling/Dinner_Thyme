@@ -1,0 +1,61 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "E9D9ECF5-7513-485D-B42C-4156DE7BE668",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C13F0110-27F0-4D19-887F-B16FC0D317E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A9A8BEDA-3FFD-4930-B3D4-8607975D0FF5",
+    "height": 45,
+    "width": 45,
+    "x": 889,
+    "y": 221
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/97fce2d5080fb0b76135fd9008cdda8e8b017b28.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "facebook_icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "29067207-5EAB-4F35-8357-880BDB256348",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "type": 0
+    },
+    "do_objectID": "C4B0898D-F54B-4AF5-AA7C-F4C530F22507",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

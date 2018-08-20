@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "528A64A2-85B9-46E4-B02A-84E65EA50848",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB434E7B-670B-4CAA-B835-618C0DF3CFA1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D27F8829-09C7-45DA-A99D-C7B809E2BE83",
+    "height": 205,
+    "width": 612,
+    "x": 70,
+    "y": 419
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cart Item Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B2C4E81-5858-45FC-B53D-94F3079ED69C",
+      "overrideName": "E06FB079-8EE1-4639-B07A-2E2E5A0F50EC_stringValue",
+      "value": "$24.00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF50C7F7-61C4-4152-BF65-7968625530D4",
+      "overrideName": "0BEABA3C-AB9B-4795-96E1-09B4D1B09BDE_symbolID",
+      "value": "DC0C81E2-268E-4985-8C56-B498A815CFAC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79205B94-642F-468C-BD77-18BBBF129334",
+      "overrideName": "35412BB3-B8ED-4E49-B802-E26A12CCB18E_stringValue",
+      "value": "Chicken Pot Pie With Garden Vegetables"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF879645-D007-4C68-B2C9-498D5CFD8AB9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9AA2EBA0-2621-41E0-8EB7-D7422617D18B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6A2880E1-BFF4-4E8F-99E2-E966FB3617E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "496C77E6-1378-4EA6-8126-F84CC973163B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "316A1557-3F2B-4E92-86D9-9D441B2FCAC5",
+    "height": 24,
+    "width": 26,
+    "x": 125,
+    "y": 31
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "4 Stars",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B183A79-BD9F-4346-B037-92C36B645550",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A0BB4BFA-8832-45CD-AA85-3C2793975ABF",
+  "verticalSpacing": 0
+}

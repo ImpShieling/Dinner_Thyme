@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "7CE0CB4E-1994-419A-8525-DC2C3DB3F43F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E798836E-EE24-46C3-A797-60E0BFD10AD6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3BDAE3A1-172C-4B02-92AE-59A246D1D809",
+    "height": 145,
+    "width": 721,
+    "x": 39,
+    "y": 477
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "17FA51A8-7F1D-44C7-BB06-EE3F73DD3C52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69EDC7DC-8A94-42AB-A1F1-8D67BC158010"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB41CDE7-85AD-406E-A44F-54D2360EE164"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8507F4D-4ECF-4780-A4A0-E7A30B92291B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C023D54F-BD43-4B0A-A67B-943883554969"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2881F29E-DEED-4B14-BFC3-E288E19DE466"
+    }
+  ],
+  "name": "Cuisine",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B1C908B-D315-4AE9-8FA1-CEE5572F1C69",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

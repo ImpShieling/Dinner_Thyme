@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "BA5ED3A8-C78D-4169-92A1-83FDEFB69AFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA56A6DB-DC27-4497-9BCC-F395A2997111",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E1115618-3DF5-491E-975A-383A36E65C47",
+    "height": 475,
+    "width": 714,
+    "x": -323,
+    "y": 2
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/eee2d1a10c8f1de364d1ae76b16ff4de5bbf7016.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "applebrandychix",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "108AD3E6-8C75-4AD0-B8D0-7C6074CE001C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C671801C-7FB3-4948-AAD4-7E9B8B8573CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E7B6BC1-5C22-4380-895A-C1A918D5682A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9403860-10D2-4DBF-B6F6-833E46626B16",
+    "height": 86,
+    "width": 190,
+    "x": 766,
+    "y": 114
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Photo Placeholder Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3ABD911-7D37-4900-AA12-C88859FB907A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "46AEA720-A772-4DF3-A83E-3A8E3D7C000D",
+  "verticalSpacing": 0
+}

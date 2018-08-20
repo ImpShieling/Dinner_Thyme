@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1434591C-896A-49E5-98BC-C319040BFDC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3ACBDB38-DB91-4733-B2DA-02F319261F62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "20990A78-38D7-40B7-A538-1BCF6114B6C8",
+    "height": 148,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header - Desktop HD",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ECCB1D15-1C60-4019-B1B1-A1E9D8AEABB4",
+      "overrideName": "0DAC6ED7-4388-4092-AEF3-A8078502FECC_symbolID",
+      "value": "7E850195-B30A-42BA-A7AB-97E8A5A6424C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75180151-6047-4D53-84D5-B0B52B07D06E",
+      "overrideName": "BFFF47D2-409B-46C1-ABDA-312F02CF51E7_symbolID",
+      "value": "D7D8A578-EC28-42B2-AFCB-F599B232F861"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12CEFA00-B38C-4C3E-AB6C-A8DAD5068A03",
+      "overrideName": "1C5C03A7-72E7-4A2D-BE45-5ED05CC0FC77_symbolID",
+      "value": "55F4BDF4-396C-47C8-BC09-2523DC2097CB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F0DD1D3-4CBB-4C87-AA12-F2963FD0034F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.8424479166666666,
+          "green": 0.8424479166666666,
+          "red": 0.8424479166666666
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A38E6351-57ED-4C60-9C26-185494D84C39",
+  "verticalSpacing": 0
+}
