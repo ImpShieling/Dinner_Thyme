@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "652A88D6-A12A-45A0-8250-4F74CB0D7892",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13EC43B9-D7A7-4A66-B736-E50286556FB9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD60DE38-E130-416E-AE94-D3EEDBF734A4",
+    "height": 517,
+    "width": 307,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7ED6BC8F-E745-46E7-B391-BDCBC334AEDE"
+    },
+    {
+      "class": "text",
+      "id": "B4A1E600-C24E-4E92-BFCE-9766E1D1D256"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "016CB85B-4EC0-493C-A3E4-CDC80BCAC090"
+    },
+    {
+      "class": "group",
+      "id": "BD7EFE58-3ECB-4D61-BE59-F5152E9C8A9E"
+    }
+  ],
+  "name": "Lefrt",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FCC3DE1A-0D14-4A95-A001-28BE17842C2F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

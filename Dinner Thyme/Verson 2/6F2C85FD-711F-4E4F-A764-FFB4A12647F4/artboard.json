@@ -1,0 +1,145 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4713FAF8-EE38-42FF-A052-332C1867554D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "6F2C85FD-711F-4E4F-A764-FFB4A12647F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "343933A5-679C-4C11-BC15-005B66E995F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F354D0A-4741-4352-BD1B-3DED52FBA062",
+    "height": 961,
+    "width": 1025,
+    "x": -13582,
+    "y": -5168
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "00F0F324-2972-4C4F-BBCA-A9EB925427C5",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 16
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "90786532-A845-40C5-AD87-0B5C2BB7F460",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C5D88E92-25B4-4767-84B8-8C0F93581F51"
+    },
+    {
+      "class": "group",
+      "id": "3261D0DB-D16D-4516-8E8F-A25C99FBBF7A"
+    },
+    {
+      "class": "group",
+      "id": "E0A6933E-E1E9-44DB-A60E-FBDE1BC03C88"
+    },
+    {
+      "class": "group",
+      "id": "C6B8B0C9-B950-4BE3-860F-ECF7D74714D0"
+    },
+    {
+      "class": "group",
+      "id": "D142EA56-B672-430A-A18C-A3412945328D"
+    },
+    {
+      "class": "group",
+      "id": "D5AD219D-EC4B-4AAB-A95A-FB4B8649FA4C"
+    },
+    {
+      "class": "group",
+      "id": "FF25E122-28BD-4518-8AC6-57AF822D7F87"
+    },
+    {
+      "class": "group",
+      "id": "9A358CD0-37C6-42D8-9E64-D0E5C6EEBA49"
+    },
+    {
+      "class": "group",
+      "id": "43B03D20-8DC3-4E44-814D-9F6C33B20AD9"
+    },
+    {
+      "class": "text",
+      "id": "D8C181B2-9B38-4AFB-B80C-EF232D72B4B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C71088E-4F5A-4ED5-B5A8-BB56DA31AD46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B057F24E-84C3-45B0-8A66-545AFFA2C2ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "74B8D70E-8CEE-4EAA-A48C-80F13A62F152"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE52478F-2D42-4F1C-9DBD-DD58ADD45B06"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3A6CE8E-291F-4D73-B2CE-9A95FF5D0E52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A1FF5D3-8484-40A2-9514-1E792E206E5F"
+    }
+  ],
+  "name": "Filter - Chicken",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F916E27-034C-4E77-9444-81032AD0A29A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FBB1AECE-DFEB-421D-9506-DFCCABD5805F",
+    "guides": [
+    ]
+  }
+}

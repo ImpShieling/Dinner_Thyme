@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "3F5A2AB0-246E-4816-B5B3-2BD9EA09F57A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDA4BA62-6143-4EBC-9ED5-5C4C8EF9050E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C01733A-30CA-47D3-A636-B63B4F03FD7B",
+    "height": 106,
+    "width": 1024,
+    "x": 208,
+    "y": 592
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5FF00AFA-F91C-4CCD-B5EB-BC70399F01F8"
+    },
+    {
+      "class": "text",
+      "id": "B9E4D9AF-0ED7-4DD1-87E5-952363234D32"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C95086EB-66DF-411D-8BE3-B1355A02B04A"
+    }
+  ],
+  "name": "Marketplace",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D101D123-D5B5-45E3-8865-0F7DB9EED39F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
