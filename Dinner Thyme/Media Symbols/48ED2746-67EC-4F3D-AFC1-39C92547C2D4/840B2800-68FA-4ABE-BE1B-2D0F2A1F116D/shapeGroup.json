@@ -2,10 +2,9 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AEA58D59-EB4B-4C3D-8273-AE7758203213",
+  "do_objectID": "840B2800-68FA-4ABE-BE1B-2D0F2A1F116D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C0E13EA8-6F45-4CDC-9EA4-E68165651AFC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C6B1E11A-5296-4E58-B998-2926F606DE8D",
-    "height": 446,
-    "width": 1024,
-    "x": 208,
-    "y": 146
+    "height": 266,
+    "width": 400,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,14 +27,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "469D69BD-6F99-4A4B-9CE9-A9370E55D2DC"
+      "id": "0949FB42-FCD6-46FC-A64A-D812844F2E28"
     }
   ],
-  "name": "Rectangle 6",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,17 +58,16 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "64848E1E-DF5F-438F-B6AE-EBB671A979C5",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.25,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
         "isEnabled": true,
