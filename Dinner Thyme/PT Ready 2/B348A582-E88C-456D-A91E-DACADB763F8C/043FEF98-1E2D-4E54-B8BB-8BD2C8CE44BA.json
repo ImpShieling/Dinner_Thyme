@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "043FEF98-1E2D-4E54-B8BB-8BD2C8CE44BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4435ACEC-3024-4216-909F-39D8FF048162",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84E53137-A83F-4BD3-AC63-C72D50867B7C",
+    "height": 54,
+    "width": 144,
+    "x": 231,
+    "y": 1002
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filter Button Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C696692-9B64-4C89-B275-936B465F2604",
+      "overrideName": "26D52629-9084-4A19-8630-F3FB164FA712_stringValue",
+      "value": "Chicken"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E9AA220-EEA4-41A7-8679-EEFC6BA863E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FF576506-5D2F-4E7E-94F7-0741483A5320",
+  "verticalSpacing": 0
+}

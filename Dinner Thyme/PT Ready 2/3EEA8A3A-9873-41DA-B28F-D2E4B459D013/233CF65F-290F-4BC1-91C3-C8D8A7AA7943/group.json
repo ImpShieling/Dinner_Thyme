@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "233CF65F-290F-4BC1-91C3-C8D8A7AA7943",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4E88156-D29A-46BA-8BF2-6D4CA9A42FB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D6D973C6-CAB1-4790-8F37-1D43D51A63BA",
+    "height": 20,
+    "width": 20,
+    "x": 239,
+    "y": 845
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2F9B412B-0DD9-47EE-9257-618685EF03CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3D98A4EB-B2B7-4D28-A485-1643A313169C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A01A96F-B30E-48BA-B4A3-86B4EB4318E1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1B81023-745B-438A-A0A8-AD76017987AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98D87EA2-A745-42AD-A1B9-268066B48BF0"
+    }
+  ],
+  "name": "Filte Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C56A6BB5-2E88-4D53-9F21-421172D9E515",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

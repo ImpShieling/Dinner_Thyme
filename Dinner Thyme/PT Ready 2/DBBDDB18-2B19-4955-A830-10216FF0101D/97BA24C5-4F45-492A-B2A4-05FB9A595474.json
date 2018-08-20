@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "97BA24C5-4F45-492A-B2A4-05FB9A595474",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "267D923F-E8AD-4CCB-B097-2F487B507698",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4D29A3E-7D23-49C9-A3A9-68C27359BDF1",
+    "height": 467,
+    "width": 303,
+    "x": 228,
+    "y": 2990
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Meal Card/Meal Card Copy 13",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A6DFF96-F636-4E0D-B632-D62995876BCD",
+      "overrideName": "02FC9EF1-79F8-4A57-A6F4-AFFB7D737EC5_symbolID",
+      "value": "F8E14CA0-D945-4A70-9CF8-CC619E2CA387"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04D5941B-961E-40BE-A9D9-FC7BCB4BB889",
+      "overrideName": "F5896F37-4096-4598-BFD2-F3333F0895B9_stringValue",
+      "value": "Chicken Piccata With Capers Over Linguine"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B54A6488-7CE0-4591-8C0F-2B1AF87571D2",
+      "overrideName": "C7BB1987-2437-4AE0-9F13-4400C70CBA74_stringValue",
+      "value": "11"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AD55309-197F-49E7-82D8-90EF245FEAA4",
+      "overrideName": "94584E70-B8AB-4DCB-8A21-EF1B0756FC11_stringValue",
+      "value": "16"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A76D524-19F4-4801-B58B-F2B27ACB287B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8F508C58-D528-43BD-B2DE-B5C56F0A32C3",
+  "verticalSpacing": 0
+}

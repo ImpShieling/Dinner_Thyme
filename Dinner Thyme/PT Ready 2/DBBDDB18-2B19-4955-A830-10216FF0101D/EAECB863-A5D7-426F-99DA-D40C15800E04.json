@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "EAECB863-A5D7-426F-99DA-D40C15800E04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A8B3D83-1AC9-4A42-A731-CF346029E52E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "414FA0AD-FB82-4418-93F9-AFC9F5B542C6",
+    "height": 467,
+    "width": 303,
+    "x": 911,
+    "y": 967
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Meal Card/Meal Card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E08389C-7859-4A4A-A44A-1C355CC89E40",
+      "overrideName": "F5896F37-4096-4598-BFD2-F3333F0895B9_stringValue",
+      "value": "BBQ Pulled Pork Sandwich With Pickled Green Beans"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F29AB37-DB4F-476C-8838-473AB9A3671D",
+      "overrideName": "02FC9EF1-79F8-4A57-A6F4-AFFB7D737EC5_symbolID",
+      "value": "51AC5613-C448-4315-96C8-F6F7BE6CD8D5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78B38296-59E8-467A-BF46-2B2789735550",
+      "overrideName": "C7BB1987-2437-4AE0-9F13-4400C70CBA74_stringValue",
+      "value": "12"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18FB907C-F085-46B1-B17A-C7583728E82B",
+      "overrideName": "94584E70-B8AB-4DCB-8A21-EF1B0756FC11_stringValue",
+      "value": "12"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A91CDC8B-D443-40E1-AC12-F407C1513805",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8F508C58-D528-43BD-B2DE-B5C56F0A32C3",
+  "verticalSpacing": 0
+}

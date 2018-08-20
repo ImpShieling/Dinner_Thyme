@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CFA085BE-529F-456D-8975-800555990048",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "222B43F7-8651-489D-BD87-8DDEAC0AC952",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3195AB00-1CFD-4502-85CF-0B7249FE579A",
+    "height": 118,
+    "width": 118,
+    "x": 825,
+    "y": 1170
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "014CBABE-5C13-47B0-B7D0-7408AA06E4E1"
+    },
+    {
+      "class": "text",
+      "id": "95A75D46-9282-4F00-AEF8-D1FA49FBC291"
+    }
+  ],
+  "name": "Allergens",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48BED7C5-586C-4C9D-B1BB-FFB2336F9117",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

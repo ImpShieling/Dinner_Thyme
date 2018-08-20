@@ -1,0 +1,63 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "30D8240D-E047-45BC-994E-13A2F7A6BA15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "249E21ED-44BF-4CC2-87D8-66233DBF563E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "736771E1-F657-4165-8CCA-67BED03FBE09",
+    "height": 42.84818195363861,
+    "width": 37.81041411923329,
+    "x": 0.05598994267744252,
+    "y": 0.03376623376622889
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E1DBF339-EBA1-4AA3-9CAF-5AC3AFE78CD0"
+    }
+  ],
+  "name": "Clip 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "02FFB55B-C8A0-4186-9E17-C96EA492BF2B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.25,
+      "type": 0
+    },
+    "do_objectID": "B87A05A6-288A-467F-A047-865AFED4BA7C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}
