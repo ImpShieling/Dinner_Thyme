@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "128C5A05-65D9-4D9C-B257-849EB019C6C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97286A94-90CF-4095-B40E-864184A0AB53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A25AB837-3C91-43A8-9FF1-1A17A63DBAF3",
+    "height": 444,
+    "width": 1024,
+    "x": 208,
+    "y": 148
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D63CEF09-3FAF-4557-829F-6745D459B0AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E9BC8E4-7738-455C-9007-7FC42A8380EC"
+    },
+    {
+      "class": "bitmap",
+      "id": "457A2B87-55EB-4857-994C-E5A549134F71"
+    }
+  ],
+  "name": "Hero",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3DBFEB4-6997-47CE-A420-CDD752A37478",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
