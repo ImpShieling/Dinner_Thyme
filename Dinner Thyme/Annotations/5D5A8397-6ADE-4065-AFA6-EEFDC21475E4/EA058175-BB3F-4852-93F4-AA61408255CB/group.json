@@ -39,7 +39,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "do_objectID": "5ED49359-0498-4ECC-9328-9E503417EA58",

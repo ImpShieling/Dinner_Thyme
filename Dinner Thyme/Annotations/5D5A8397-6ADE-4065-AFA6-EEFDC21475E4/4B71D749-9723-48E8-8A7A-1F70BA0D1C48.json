@@ -42,7 +42,7 @@
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "do_objectID": "A26E9F42-12D4-4D73-8F11-F1BE65027C3B",

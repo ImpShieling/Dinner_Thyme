@@ -33,7 +33,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "632590FF-8DAD-4BD5-851B-1666A3E0881F",
-    "height": 3860,
+    "height": 4465,
     "width": 1440,
     "x": -10932,
     "y": -6534
@@ -123,10 +123,6 @@
       "id": "FFBEE274-BCDD-4147-B2EA-8241C5008AED"
     },
     {
-      "class": "group",
-      "id": "266D9968-546F-48E0-8907-47ED0D00C613"
-    },
-    {
       "class": "shapeGroup",
       "id": "4A1EA83D-F061-4B14-87F6-F80BF3B91A9C"
     },
@@ -136,11 +132,11 @@
     },
     {
       "class": "shapeGroup",
-      "id": "66FE1E64-1EFC-4489-8995-F308BE391C79"
+      "id": "08FE8587-243A-4832-8253-0EB0E405BCDE"
     },
     {
       "class": "shapeGroup",
-      "id": "04D7CB13-8FA8-4D52-8E1B-24B9875D3296"
+      "id": "B3494B6C-1CBD-41D9-8690-F4A7B0A51CE8"
     },
     {
       "class": "text",
@@ -245,6 +241,10 @@
     {
       "class": "symbolInstance",
       "id": "44828E25-FE4F-42A4-B5AE-2E27292CF011"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9458A79B-A1EA-4BBA-8477-A676A057B628"
     }
   ],
   "layout": {
