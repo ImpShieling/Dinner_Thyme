@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "78B54626-1DB2-44DE-A8C9-DC19F40E60CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D635004-0596-4DE9-A0F4-E6F6A4DB09AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4A5CC75-AEA8-4AA0-A192-EA3B4237DA6A",
+    "height": 467,
+    "width": 303,
+    "x": 570,
+    "y": 4001
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Meal Card/Meal Card Copy 11",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E5A0865-C538-41A4-96FA-4A88407FDF69",
+      "overrideName": "75F5D54B-F07A-4364-98BD-0EB62DDBDC11_symbolID",
+      "value": "CFAC2A1D-4605-4BA4-A02D-CB17C9043A6E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0C54559-81D0-444C-A7ED-12AA031C14E5",
+      "overrideName": "A36A14A6-12D3-46F2-8655-4DA7F5EC3ADB_symbolID",
+      "value": "5B594AEE-D38C-4E4E-9985-968A11CA2736"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53374585-1ED3-457A-87E0-A695CEDFD748",
+      "overrideName": "A1244D83-8D2C-4E4E-AB23-B6FBB6FAACCC_stringValue",
+      "value": "TITLE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9906232-3D56-455D-82C5-F2C07830AEF3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "896E8A26-A565-4B09-8ED0-E8A6B299489F",
+  "verticalSpacing": 0
+}

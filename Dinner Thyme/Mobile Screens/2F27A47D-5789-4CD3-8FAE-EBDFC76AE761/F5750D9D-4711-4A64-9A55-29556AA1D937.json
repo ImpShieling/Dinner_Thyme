@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "F5750D9D-4711-4A64-9A55-29556AA1D937",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8794B9F4-4812-40B3-AFD0-BC1402AC933D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6823FD08-383B-4CA7-8F63-D86D0A218A52",
+    "height": 475,
+    "width": 289,
+    "x": 43,
+    "y": 2049
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Menu Item - Mobile Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "759C0DA6-7BB6-43CD-B139-6CFBB56ED605_stringValue",
+      "value": "Beer Bolognese Gnocchi With Tomato Gravy"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2C0F457E-DA24-4231-A760-3447421C8272/24638B6D-0CD2-46E8-B359-BC0726CAFC8D_stringValue",
+      "value": "14min"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BBD3EAEC-8730-4A5E-A4CC-EBFB713EB818/F76929B2-0F71-4648-8D65-1A6ADC5EA7A7_stringValue",
+      "value": "$11"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7780D90A-DA26-4E17-8221-8C6B144437C0_symbolID",
+      "value": "3667C0FC-5164-480A-98F1-A8625560A224"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AD1EA469-1970-4863-8CE1-C1110B3BBE6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F427E83-26C3-4BEF-9FA1-D7211BE7AA70",
+  "verticalSpacing": 0
+}

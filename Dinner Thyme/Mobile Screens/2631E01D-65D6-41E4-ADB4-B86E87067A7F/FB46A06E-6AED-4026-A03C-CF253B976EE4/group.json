@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "FB46A06E-6AED-4026-A03C-CF253B976EE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CEDB0295-24BB-47B8-83B2-3E6039BFBB16",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90C3C2A9-16A5-4641-B15E-C6D5784BC635",
+    "height": 474,
+    "width": 289,
+    "x": 43,
+    "y": 2564
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "88EB2646-C04B-4CE4-8122-4FE209D757D5"
+    },
+    {
+      "class": "text",
+      "id": "B5902F87-C3B4-457B-A00B-3D57EA6EADCC"
+    },
+    {
+      "class": "group",
+      "id": "B5EB624F-D7D8-4E4C-BF99-B0ACA7B3FC77"
+    },
+    {
+      "class": "group",
+      "id": "84D7A1D1-2BAC-4B4A-A383-22509BC8AA89"
+    }
+  ],
+  "name": "Added Overlay Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE1CF7FB-D2C5-4E10-9AA8-A34BA5373E0A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

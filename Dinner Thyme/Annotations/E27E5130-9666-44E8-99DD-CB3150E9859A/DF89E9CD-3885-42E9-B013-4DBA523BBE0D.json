@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DF89E9CD-3885-42E9-B013-4DBA523BBE0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84D69803-4A41-4B88-9E33-85154637C8F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A3E4CDA9-3D5E-4714-BDE7-DB14DD4C1F66",
+    "height": 54,
+    "width": 144,
+    "x": 371,
+    "y": 882
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filter Button Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "101600CA-FC7E-459C-99E5-893B4F494BD6",
+      "overrideName": "1527003B-9803-4492-A0E2-14653B326274_stringValue",
+      "value": "Vegetarian"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F9F72B50-E94D-43A4-9DA3-6C61A2E5EEE5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E87F33C3-F0C1-4B71-B522-736D4F9DEABD",
+  "verticalSpacing": 0
+}

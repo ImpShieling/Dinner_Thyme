@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "35625D1B-AD70-4101-BD6A-D7CA2C87DE74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3AD256C0-A973-4326-B813-03776EFC39FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC5994F7-51E0-4DE3-910F-FFF864529E52",
+    "height": 128,
+    "width": 74,
+    "x": 35,
+    "y": 2674
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D95FE673-A1D0-4F1E-9A7C-F03962DF5B52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "33FADAD4-B65D-4DB8-8DA6-DB1AE232C988"
+    },
+    {
+      "class": "group",
+      "id": "28615618-0508-463D-B044-22193A745853"
+    }
+  ],
+  "name": "Eat When You Want",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F7B95F39-B213-4476-9B08-4F4AB1C11FA7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.625,
+      "type": 0
+    },
+    "do_objectID": "E1217A1D-A27E-486C-95F0-EFAA6AD0823D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

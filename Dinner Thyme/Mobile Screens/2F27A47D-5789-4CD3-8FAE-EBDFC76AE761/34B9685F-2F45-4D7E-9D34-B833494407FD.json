@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "34B9685F-2F45-4D7E-9D34-B833494407FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C5AA44CE-14DF-4A80-957F-6039EC1BE704",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8042E05-F65B-4121-92D9-7C7F2BC5ECF4",
+    "height": 475,
+    "width": 289,
+    "x": 43,
+    "y": 3079
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Menu Item - Mobile Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "759C0DA6-7BB6-43CD-B139-6CFBB56ED605_stringValue",
+      "value": "Blackened Chicken With Fiesta Rice and..."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2C0F457E-DA24-4231-A760-3447421C8272/24638B6D-0CD2-46E8-B359-BC0726CAFC8D_stringValue",
+      "value": "20min"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BBD3EAEC-8730-4A5E-A4CC-EBFB713EB818/F76929B2-0F71-4648-8D65-1A6ADC5EA7A7_stringValue",
+      "value": "$11"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7780D90A-DA26-4E17-8221-8C6B144437C0_symbolID",
+      "value": "F8835B8D-6166-4078-8F4E-23258F7A3A77"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9A412D8-E3DF-420E-87EB-35D4A011FC0A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F427E83-26C3-4BEF-9FA1-D7211BE7AA70",
+  "verticalSpacing": 0
+}

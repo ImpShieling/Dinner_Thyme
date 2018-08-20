@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "ABBF8379-B96F-4AC4-A99B-BA6E93C52A58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "874737F8-A139-4A94-A462-468C7304659F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B832020-3762-4622-9EBF-00662C2E6A88",
+    "height": 76,
+    "width": 107,
+    "x": 0,
+    "y": 106
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "183603CF-E39D-4F00-B636-C2C132539522"
+    },
+    {
+      "class": "text",
+      "id": "67251A80-5EB0-4B2F-9DDE-F51CDC92C954"
+    },
+    {
+      "class": "text",
+      "id": "16C68063-A8EB-4693-9DA9-3E0525262338"
+    }
+  ],
+  "name": "Spice Level",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75D82015-AAAD-45D8-B8C5-61C7E3E19035",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

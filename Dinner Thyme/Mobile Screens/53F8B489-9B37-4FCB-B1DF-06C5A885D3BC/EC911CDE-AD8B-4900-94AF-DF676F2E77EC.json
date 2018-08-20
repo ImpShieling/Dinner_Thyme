@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "EC911CDE-AD8B-4900-94AF-DF676F2E77EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3B308EB-A3FF-45A2-AD87-51951694C7A8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D6B51B61-1B6F-4865-B87B-9FC2ED558CDC",
+    "height": 475,
+    "width": 289,
+    "x": 43,
+    "y": 2281
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Menu Item - Mobile Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAEFCECF-FE64-4AB3-A07F-C3BBD0101838",
+      "overrideName": "759C0DA6-7BB6-43CD-B139-6CFBB56ED605_stringValue",
+      "value": "Chicken and Waffles with Braised Kale and Butter..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68739CE4-49C9-4C3C-9BBC-CB788E4192BD",
+      "overrideName": "2C0F457E-DA24-4231-A760-3447421C8272/24638B6D-0CD2-46E8-B359-BC0726CAFC8D_stringValue",
+      "value": "21min"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1DFD192-4D17-4264-BCFE-D5F32B22FD6A",
+      "overrideName": "BBD3EAEC-8730-4A5E-A4CC-EBFB713EB818/F76929B2-0F71-4648-8D65-1A6ADC5EA7A7_stringValue",
+      "value": "$12"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "86F94BE4-0925-4D46-A6F6-1982A52DD228",
+      "overrideName": "7780D90A-DA26-4E17-8221-8C6B144437C0_symbolID",
+      "value": "5800C683-6B8B-4393-9C09-3B0588B7AE1B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B50DBEE8-9877-4906-9A20-732E7F4FA111",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F427E83-26C3-4BEF-9FA1-D7211BE7AA70",
+  "verticalSpacing": 0
+}
