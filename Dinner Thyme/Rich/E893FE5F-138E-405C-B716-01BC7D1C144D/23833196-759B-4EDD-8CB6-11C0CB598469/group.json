@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "23833196-759B-4EDD-8CB6-11C0CB598469",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 673,
+    "width": 1024,
+    "x": 2015,
+    "y": 371
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "36B73669-6827-414F-BD00-AB3247047D29"
+    },
+    {
+      "class": "bitmap",
+      "id": "FA1ED858-AC51-4046-BF90-29A62C3B5DFD"
+    },
+    {
+      "class": "bitmap",
+      "id": "C31D3809-35C0-4C4F-BBE7-3D66F8C9810A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B0FB24A8-86DF-446A-B1E3-D6D8FECA2B0E"
+    },
+    {
+      "class": "group",
+      "id": "621C742D-E8AE-4FBA-ACB0-6CD9F31BC624"
+    },
+    {
+      "class": "text",
+      "id": "F69FCF90-BD1C-4B0C-9049-CAA34EAB7D0F"
+    },
+    {
+      "class": "text",
+      "id": "103CBCA5-EA05-4F7B-9F35-75E4718588AD"
+    },
+    {
+      "class": "text",
+      "id": "23C458F1-244C-4B97-A5E5-85457EE6B0BD"
+    },
+    {
+      "class": "text",
+      "id": "B665DD26-26C4-44E3-8748-96283F0D21BF"
+    }
+  ],
+  "name": "Eco Ad",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
