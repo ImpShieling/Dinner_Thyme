@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "2F5A9A95-3097-40D2-ACEA-D44AE1B845FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "940EDCFF-A211-4633-A25E-238AC356CAA0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B163CF14-8AF7-41A1-9010-30493F0D6818",
+    "height": 467,
+    "width": 303,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Meal Card/Meal Card Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "290641AF-E399-470C-A7C9-C58D47904FEA",
+      "overrideName": "02FC9EF1-79F8-4A57-A6F4-AFFB7D737EC5_symbolID",
+      "value": "3667C0FC-5164-480A-98F1-A8625560A224"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85A8447C-BBE4-459B-B1B5-EF4531FDE352",
+      "overrideName": "F5896F37-4096-4598-BFD2-F3333F0895B9_stringValue",
+      "value": "Beef Bolognese Gnocchi With Tomato Gravy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76DF90EF-BFBA-4433-9C8D-AE10EE3B8AD9",
+      "overrideName": "C7BB1987-2437-4AE0-9F13-4400C70CBA74_stringValue",
+      "value": "11"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEAF10E8-8C6D-428B-B8D2-063E13C70E7E",
+      "overrideName": "94584E70-B8AB-4DCB-8A21-EF1B0756FC11_stringValue",
+      "value": "14"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "309694C4-0FD6-4A54-B571-E2196DBC622B",
+      "overrideName": "4388597C-F58E-4A84-9098-53C3CE27A3C5_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF93051A-C338-418E-8811-087E78ACD402",
+      "overrideName": "317B2BDB-407C-44E2-B80A-0B0B8A3F4659_symbolID",
+      "value": "4E2E5C75-2C6E-484B-834F-51D94CA2DB42"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2515047F-147C-4DA3-962B-8345067C3737",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8F508C58-D528-43BD-B2DE-B5C56F0A32C3",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2466BF44-BAEB-4AB5-A772-7BEBD10C97F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14F42DFC-1CAC-46BE-B7C0-44027AAEBA16",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CEDF23D-9518-4492-80CA-5C93359445E1",
+    "height": 178.7952,
+    "width": 168.450230058161,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "55323AC1-8BA8-4DE8-8F11-2BAFA70C6A6A"
+    }
+  ],
+  "name": "Clip 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "02CD1E65-E9FA-4EA1-8DC2-13C60B32E503",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "type": 0
+    },
+    "do_objectID": "9901FFCF-7968-462B-8C15-6939E2788B65",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

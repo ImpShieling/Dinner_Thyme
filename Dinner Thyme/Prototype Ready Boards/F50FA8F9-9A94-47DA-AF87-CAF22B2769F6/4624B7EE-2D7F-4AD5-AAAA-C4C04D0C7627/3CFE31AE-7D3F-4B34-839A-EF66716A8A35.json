@@ -1,0 +1,119 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2705882352941176,
+            "green": 0.6941176470588235,
+            "red": 0.396078431372549
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 37.5
+            }
+          },
+          "kerning": 1.049999982118607,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 1
+        },
+        "length": 4,
+        "location": 0
+      }
+    ],
+    "string": "Menu"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "do_objectID": "3CFE31AE-7D3F-4B34-839A-EF66716A8A35",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A727F39-0AC2-44A2-B535-4BB024D38933",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2A5C2E57-1D56-4E72-81D4-4FDA1E8E0EB8",
+    "height": 106,
+    "width": 769,
+    "x": 128,
+    "y": 0
+  },
+  "glyphBounds": "{{339, 9}, {90, 28}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Menu",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "type": 0
+    },
+    "do_objectID": "5FDF3FC8-6A44-4E9F-B8B6-25E564931EA7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "73A19166-FF10-4E91-A105-9968606C52F5",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2705882352941176,
+          "green": 0.6941176470588235,
+          "red": 0.396078431372549
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue-Light",
+            "size": 37.5
+          }
+        },
+        "kerning": 1.049999982118607,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 1
+      },
+      "verticalAlignment": 1
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

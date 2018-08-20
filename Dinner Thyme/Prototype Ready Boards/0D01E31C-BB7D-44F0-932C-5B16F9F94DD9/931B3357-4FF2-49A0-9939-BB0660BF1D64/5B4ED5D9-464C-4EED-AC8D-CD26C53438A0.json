@@ -1,0 +1,125 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4431372549019608,
+            "green": 0.4313725490196079,
+            "red": 0.4274509803921568
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 18
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 150,
+        "location": 0
+      }
+    ],
+    "string": "The payoff. A flavorful, nutritious, home-cooked dinner is on the table without all of the hassles and restrictions of a traditional meal kit service."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "do_objectID": "5B4ED5D9-464C-4EED-AC8D-CD26C53438A0",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21E8001F-C3F6-4298-9258-28A28AC0AA09",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "963F443C-36CF-4331-AA8B-BC12BCC14354",
+    "height": 116,
+    "width": 460,
+    "x": 5,
+    "y": 63
+  },
+  "glyphBounds": "{{-1, 5}, {445, 58}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "The payoff. A flavor",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8770233B-4BB9-48D5-8078-03B00FEB5EC7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.33333333333333,
+      "type": 0
+    },
+    "do_objectID": "C7C0FD4B-93D9-4AA0-B978-A9F0154F2FC8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "89A89702-9A54-4178-952A-46F82B96C8D1",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "2595DF96-ED18-4D54-8FD5-5662F13D50C7",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4431372549019608,
+          "green": 0.4313725490196079,
+          "red": 0.4274509803921568
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue-Light",
+            "size": 18
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

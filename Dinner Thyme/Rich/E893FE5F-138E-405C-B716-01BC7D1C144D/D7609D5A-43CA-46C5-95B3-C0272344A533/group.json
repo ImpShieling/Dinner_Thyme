@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "D7609D5A-43CA-46C5-95B3-C0272344A533",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 176,
+    "x": 2765,
+    "y": 550
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3E842532-AFF5-49D6-8B2B-BCAE57B14212"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D0CF5ED-FA5D-4AD0-BDE1-7C7E0BACF15D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "33272F2B-AAD2-4A01-95B6-8BD4EBC898EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC2BB1AA-88A9-4543-A4E6-B4392CF2B881"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D07F5ED2-BF72-459B-B196-4B4D908831C5"
+    }
+  ],
+  "name": "Apple",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

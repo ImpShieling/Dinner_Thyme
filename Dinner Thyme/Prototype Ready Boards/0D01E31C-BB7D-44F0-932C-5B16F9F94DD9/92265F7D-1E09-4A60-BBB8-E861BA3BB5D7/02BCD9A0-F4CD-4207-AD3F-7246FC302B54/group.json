@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "02BCD9A0-F4CD-4207-AD3F-7246FC302B54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C349628-A064-406D-9C0E-31B8E8811098",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6E6E6688-00F6-409A-BE18-36D72B7F21A2",
+    "height": 353,
+    "width": 530,
+    "x": -129,
+    "y": -11
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "0723B991-DE90-4F5C-B370-E9BF4F921887"
+    }
+  ],
+  "name": "freezerpull1sm",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4B72BE92-29CA-491B-B400-8783EA028E8E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.33333333333333,
+      "type": 0
+    },
+    "do_objectID": "5EF75DF2-380C-419E-ABC3-C0ED06CC77B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

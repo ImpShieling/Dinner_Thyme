@@ -1,0 +1,121 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4431372549019608,
+            "green": 0.4313725490196079,
+            "red": 0.4274509803921568
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Medium",
+              "size": 28
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 1
+        },
+        "length": 6,
+        "location": 0
+      }
+    ],
+    "string": "Enjoy!"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "do_objectID": "0E3F1386-D3CB-47B9-AE8E-A3D460F4456C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91B210DB-75F4-4C10-91E8-4A0A27C3BCDD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71657D15-378B-44EB-B1D9-8C7D75430134",
+    "height": 46.66666666666666,
+    "width": 470,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{2, 7}, {76, 26}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Enjoy!",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BEF00E54-309F-4CA2-9C16-571E8EA19F5C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.33333333333333,
+      "type": 0
+    },
+    "do_objectID": "24CE3C92-8CEE-4493-96FE-548944EB782E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "6C4044A6-B098-421B-94D9-301DEFC85A6E",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "C5C5446F-395E-4326-BA4C-D149635DA912",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4431372549019608,
+          "green": 0.4313725490196079,
+          "red": 0.4274509803921568
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue-Medium",
+            "size": 28
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 1
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

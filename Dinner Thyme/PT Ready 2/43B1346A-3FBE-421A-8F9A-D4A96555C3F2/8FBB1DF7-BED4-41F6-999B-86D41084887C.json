@@ -1,0 +1,125 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4431372549019608,
+            "green": 0.4313725490196079,
+            "red": 0.4274509803921568
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 18
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 214,
+        "location": 0
+      }
+    ],
+    "string": "Meals are shipped with dry ice in an insulated box right to your doorstep. Dinner Thyme meals are shipped every Tuesday. This means you can order as late as Monday night and receive your meals in 1-2 business days."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "do_objectID": "8FBB1DF7-BED4-41F6-999B-86D41084887C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "288905E3-4093-4A7E-9CC2-AEA904A79C36",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B50EEE82-CB8B-4FB7-990A-EBC66077AEC8",
+    "height": 116,
+    "width": 444,
+    "x": 712,
+    "y": 1276
+  },
+  "glyphBounds": "{{-1, 5}, {441, 83}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Meals are shipped wi",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "ABCDF631-2D0B-4BF9-9D14-37EF8ED96B15",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.33333333333333,
+      "type": 0
+    },
+    "do_objectID": "DC7BC4BA-67AC-409B-927D-946A67EE35DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "89A89702-9A54-4178-952A-46F82B96C8D1",
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "837800D6-8A8B-4025-B2CC-2016598FB7F5",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4431372549019608,
+          "green": 0.4313725490196079,
+          "red": 0.4274509803921568
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue-Light",
+            "size": 18
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

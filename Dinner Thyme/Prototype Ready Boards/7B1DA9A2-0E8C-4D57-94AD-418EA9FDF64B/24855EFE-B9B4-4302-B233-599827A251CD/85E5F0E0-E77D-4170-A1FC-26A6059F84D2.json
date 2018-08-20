@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "85E5F0E0-E77D-4170-A1FC-26A6059F84D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B15705AE-2D6B-4897-819D-BD0212A5EA0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DCAC486F-1E62-4270-8BD6-18ABE361A545",
+    "height": 54,
+    "width": 144,
+    "x": 576,
+    "y": 43
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filter Button Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA733F76-DE80-4717-A2A8-01C9E88E6A32",
+      "overrideName": "21E56030-8214-4EE3-ACF2-BE41C456DC0B_stringValue",
+      "value": "Southern"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDFC3635-D45D-4D63-808E-AD390106FA86",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ABC87FC2-5A54-4553-B1AD-48A8250C7653",
+  "verticalSpacing": 0
+}

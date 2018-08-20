@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "E893FE5F-138E-405C-B716-01BC7D1C144D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15326,
+    "width": 7544,
+    "x": -34582,
+    "y": -3595
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "23833196-759B-4EDD-8CB6-11C0CB598469"
+    },
+    {
+      "class": "group",
+      "id": "E7528CE5-1965-44BB-996E-243779CCE674"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "998F8D4D-A8CE-4A4F-843A-C6378FDF48A6"
+    },
+    {
+      "class": "group",
+      "id": "0054A56E-7CEB-4149-8B68-5ECF7324BFA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "620E3D43-B644-4E9B-808C-98983FCC7E93"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B056A395-3DD9-427C-9D6A-7CD8EAF922D6"
+    },
+    {
+      "class": "group",
+      "id": "D7609D5A-43CA-46C5-95B3-C0272344A533"
+    },
+    {
+      "class": "group",
+      "id": "DB563DE4-56A2-463C-8BA9-03C59A10C958"
+    },
+    {
+      "class": "group",
+      "id": "39869596-BB84-4382-A898-D09F04778689"
+    },
+    {
+      "class": "group",
+      "id": "129E690E-7C3C-4903-9C4A-46F4EF8CB309"
+    },
+    {
+      "class": "group",
+      "id": "221B00CA-CEB5-4DC4-9355-BBDE6D0C43FE"
+    }
+  ],
+  "name": "Flash Freezing Ad",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

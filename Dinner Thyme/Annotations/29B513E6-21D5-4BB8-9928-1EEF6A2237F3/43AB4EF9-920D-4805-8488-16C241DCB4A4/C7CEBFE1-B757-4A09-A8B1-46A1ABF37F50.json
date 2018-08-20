@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "C7CEBFE1-B757-4A09-A8B1-46A1ABF37F50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D684C9C5-F5C2-4DF1-A24E-12A8BF9AC73A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F404249F-30E6-4C6B-8B67-6DB1118CFD61",
+    "height": 329,
+    "width": 494,
+    "x": -25,
+    "y": -1
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a6c96c99f8b75984413c1b209c9b049c7a8f36dc.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "freezerpull4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F38E032B-3E56-4D75-8E35-26B8986CF4BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

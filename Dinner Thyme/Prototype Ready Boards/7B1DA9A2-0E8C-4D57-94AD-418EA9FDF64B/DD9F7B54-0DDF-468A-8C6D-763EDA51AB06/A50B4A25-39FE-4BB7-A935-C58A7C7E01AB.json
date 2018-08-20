@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A50B4A25-39FE-4BB7-A935-C58A7C7E01AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31729BEA-7BE6-4434-98FC-E19414D84136",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01FA7FEA-107A-48BD-B38F-056789AB9DC4",
+    "height": 54,
+    "width": 144,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filter Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "923B8064-8A62-403C-8CE6-311578E61C4D",
+      "overrideName": "21E56030-8214-4EE3-ACF2-BE41C456DC0B_stringValue",
+      "value": "New Arrivals"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "513B070F-79CE-41CA-A75A-6F88A3962B94",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ABC87FC2-5A54-4553-B1AD-48A8250C7653",
+  "verticalSpacing": 0
+}

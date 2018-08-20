@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "3EE3EB61-0BA1-4C5B-AC62-48E57ED27B98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7BD1D7A-3F2D-4A4F-AA31-2EEA34972F1D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5BB4CEE5-A66E-42CC-97E4-E409FCC6A0F8",
+    "height": 46,
+    "width": 752,
+    "x": 0,
+    "y": 66
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "238A618B-23C2-4CB1-9C8C-9D875E04D703"
+    }
+  ],
+  "name": "Top Info Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD8AD000-6024-4E25-93D9-2F48FB9CFD32",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

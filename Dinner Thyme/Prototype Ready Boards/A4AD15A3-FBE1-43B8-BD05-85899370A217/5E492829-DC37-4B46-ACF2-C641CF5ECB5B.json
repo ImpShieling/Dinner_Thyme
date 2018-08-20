@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5E492829-DC37-4B46-ACF2-C641CF5ECB5B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5969742C-88DA-4BCC-B67F-24D351225040",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D25059E1-5EFC-486A-B8D0-539F8F8A7277",
+    "height": 54,
+    "width": 144,
+    "x": 515,
+    "y": 882
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filter Button Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA66E5A8-194A-41E6-9B2F-B8480EA1B8EC",
+      "overrideName": "21E56030-8214-4EE3-ACF2-BE41C456DC0B_stringValue",
+      "value": "Individually Portioned"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58ECC69E-76EA-4109-87B2-2532C626E152",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ABC87FC2-5A54-4553-B1AD-48A8250C7653",
+  "verticalSpacing": 0
+}
