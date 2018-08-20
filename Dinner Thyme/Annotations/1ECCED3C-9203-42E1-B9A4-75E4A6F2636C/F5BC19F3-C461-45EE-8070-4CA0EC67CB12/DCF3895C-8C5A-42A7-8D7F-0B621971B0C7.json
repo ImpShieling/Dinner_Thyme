@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DCF3895C-8C5A-42A7-8D7F-0B621971B0C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC14E6FD-D7A4-4EDE-A84A-956EBDAE702C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A21ECCA2-7D9A-4A05-9410-086C6F4F4EB8",
+    "height": 467,
+    "width": 303,
+    "x": 1,
+    "y": 988
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Meal Card/Meal Card Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52F48115-987D-446D-8A0C-F2EBAF65AF04",
+      "overrideName": "75F5D54B-F07A-4364-98BD-0EB62DDBDC11_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "962435A0-307F-4D80-B13E-805D4827AC3D",
+      "overrideName": "93D54DB7-847A-4E9D-8D5B-29EAB0DC3608_symbolID",
+      "value": "4E2E5C75-2C6E-484B-834F-51D94CA2DB42"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8DA0E608-3D29-4711-AE30-BB526C1ACF55",
+      "overrideName": "A36A14A6-12D3-46F2-8655-4DA7F5EC3ADB_symbolID",
+      "value": "5800C683-6B8B-4393-9C09-3B0588B7AE1B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F56EBAA-8253-4066-AA94-0F4F380C0AA4",
+      "overrideName": "A86B618C-9968-4992-A418-86751DD1997D_stringValue",
+      "value": "12"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC947DE5-861C-4410-8AD2-C60391B5003F",
+      "overrideName": "A1244D83-8D2C-4E4E-AB23-B6FBB6FAACCC_stringValue",
+      "value": "Chicken and Waffles With Braised Kale and Butter Syrup"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7023078B-A3B5-42DB-9E27-94E148957861",
+      "overrideName": "0A18A2E1-93D2-4234-9D5B-1E6A6D2F476B_stringValue",
+      "value": "21"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A512141-2F5A-43B0-8312-556BE9B1917C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "896E8A26-A565-4B09-8ED0-E8A6B299489F",
+  "verticalSpacing": 0
+}

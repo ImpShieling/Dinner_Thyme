@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
+              "name": "HelveticaNeue-Bold",
               "size": 40
             }
           },
@@ -55,7 +55,7 @@
     "x": 476,
     "y": 320
   },
-  "glyphBounds": "{{14, 10}, {463, 38}}",
+  "glyphBounds": "{{12, 10}, {467, 37}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -90,6 +90,28 @@
     "do_objectID": "BC273CE0-4EDD-4CF4-90CA-D2AE1A74F550",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 5,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "sharedObjectID": "3DE6DB18-ED4C-4A81-AAD8-4A8E6CE8108F",
     "startMarkerType": 0,
     "textStyle": {
@@ -106,7 +128,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Bold",
+            "name": "HelveticaNeue-Bold",
             "size": 40
           }
         },

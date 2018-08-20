@@ -35,8 +35,8 @@
     "do_objectID": "CCD004F6-F8D1-4682-87F2-68CEB6CA52DD",
     "height": 2578,
     "width": 1440,
-    "x": -6739,
-    "y": -6298
+    "x": -7867,
+    "y": -6534
   },
   "grid": {
     "_class": "simpleGrid",
@@ -46,7 +46,7 @@
     "thickGridTimes": 16
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

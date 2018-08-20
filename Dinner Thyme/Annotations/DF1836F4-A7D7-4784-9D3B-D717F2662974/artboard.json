@@ -179,10 +179,6 @@
       "id": "8032C3B5-12EF-47C8-B567-50A734FD396D"
     },
     {
-      "class": "text",
-      "id": "E62AE505-A2D7-4299-B250-ADDF03DABE15"
-    },
-    {
       "class": "shapeGroup",
       "id": "546A65BE-AD5E-4769-9450-0C35A392F4E2"
     },
@@ -209,6 +205,10 @@
     {
       "class": "symbolInstance",
       "id": "E7DDBBB0-864D-4168-B1C4-655889027AA5"
+    },
+    {
+      "class": "text",
+      "id": "5EE675BD-0260-454D-99EE-36748BE0994F"
     }
   ],
   "layout": {

@@ -27,7 +27,7 @@
     "height": 961,
     "width": 1025,
     "x": -13582,
-    "y": -6298
+    "y": -6516
   },
   "grid": {
     "_class": "simpleGrid",
@@ -37,7 +37,7 @@
     "thickGridTimes": 16
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
